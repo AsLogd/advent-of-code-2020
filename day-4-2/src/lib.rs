@@ -67,7 +67,20 @@ fn field_is_valid(field: &Vec<&str>) -> bool {
     }
 }
 
-pub fn solve(input: &str) -> u32 {
+fn field_is_valid_imp(name: &str, val: &str) -> bool {
+    match name {
+        "byr" => byr_is_valid(val),
+        "iyr" => iyr_is_valid(val),
+        "eyr" => eyr_is_valid(val),
+        "hgt" => hgt_is_valid(val),
+        "hcl" => hcl_is_valid(val),
+        "ecl" => ecl_is_valid(val),
+        "pid" => pid_is_valid(val),
+        _ => true
+    }
+}
+
+pub fn solve_functional(input: &str) -> u32 {
     input.split("\n\n")
         //Map entries into key, value iterator
         .map(|entry| 
@@ -90,9 +103,58 @@ pub fn solve(input: &str) -> u32 {
         .fold(0, |sum, entry| sum + entry as u32)
 }
 
+fn field_to_pos(field: &str) -> usize {
+    match field {
+        "byr" => 0,
+        "iyr" => 1,
+        "eyr" => 2,
+        "hgt" => 3,
+        "hcl" => 4,
+        "ecl" => 5,
+        "pid" => 6,
+        _ => 7
+    }
+}
+
+pub fn solve_imperative(input: &str) -> u32 {
+    let entries = input.split("\n\n");
+    let mut valid_entries = 0;
+    'el: for entry in entries {
+        let pairs = entry.split(&[' ', '\n'][..]);
+        let mut mandatory_field_present = [
+            false, false, false,
+            false, false, false, false
+        ];
+        for p in pairs {
+            let mut field_value = p.split(':');
+            let field = field_value.next().unwrap_or("err");
+            let val =  field_value.next().unwrap_or("err");
+            if !field_is_valid_imp(field, val) {
+                continue 'el;
+            }
+            let i = field_to_pos(field);
+            if i < 7 {
+                mandatory_field_present[i] = true;
+            }
+        }
+        for f in mandatory_field_present.iter() {
+            if !f {
+                continue 'el;
+            }
+        }
+        valid_entries += 1;
+    }
+    valid_entries
+}
+
+pub fn solve(input: &str) -> u32 {
+    solve_imperative(input)
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;
+
     #[test]
     fn split() {
         let input = String::from("asdf
@@ -143,7 +205,7 @@ pid:3556412378 byr:2007");
         assert_eq!(solve(&input), 0);
         
     }
-    
+
     #[test]
     fn test_valid() {
         let input = String::from("pid:087499704 hgt:74in ecl:grn iyr:2012 eyr:2030 byr:1980
