@@ -1,7 +1,7 @@
 
 use std::collections::HashSet;
     
-pub fn solve(input: &str) -> u32 {
+pub fn solve_functional(input: &str) -> u32 {
     input.split("\n\n")
         .map(|group| {
             let mut people = group.split('\n');
@@ -14,7 +14,28 @@ pub fn solve(input: &str) -> u32 {
         }
 
         ).fold(0, |sum, curr| sum + curr.len() as u32)
-    
+}
+
+
+pub fn solve_imperative(input: &str) -> u32 {
+    let groups = input.split("\n\n");
+    let mut sum = 0;
+    for g in groups {
+        let smallest = g.split('\n').min_by_key(|person| person.len()).unwrap();
+        'cl: for c in smallest.chars() {
+            for person in g.split('\n') {
+                if !person.chars().any(|x| x == c) {
+                    continue 'cl;
+                }
+            }
+            sum += 1;
+        }
+    }
+    sum
+}
+
+pub fn solve(input: &str) -> u32 {
+    solve_imperative(input)
 }
 
 #[cfg(test)]
