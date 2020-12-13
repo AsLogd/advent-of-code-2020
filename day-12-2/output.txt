@@ -1,0 +1,1579 @@
+Status Ship {
+    pos: Point {
+        x: 0,
+        y: 0,
+    },
+    waypoint: Point {
+        x: 10,
+        y: 1,
+    },
+}
+Acting Right(90)
+Status Ship { pos: Point { x: 0, y: 0 }, waypoint: Point { x: 1, y: -10 } }
+Acting Forward(88)
+Status Ship { pos: Point { x: 88, y: -880 }, waypoint: Point { x: 1, y: -10 } }
+Acting Right(180)
+Status Ship { pos: Point { x: 88, y: -880 }, waypoint: Point { x: 1, y: -10 } }
+Acting Forward(98)
+Status Ship { pos: Point { x: 186, y: -1860 }, waypoint: Point { x: 1, y: -10 } }
+Acting South(5)
+Status Ship { pos: Point { x: 186, y: -1860 }, waypoint: Point { x: 1, y: -15 } }
+Acting Forward(14)
+Status Ship { pos: Point { x: 200, y: -2070 }, waypoint: Point { x: 1, y: -15 } }
+Acting South(4)
+Status Ship { pos: Point { x: 200, y: -2070 }, waypoint: Point { x: 1, y: -19 } }
+Acting Left(270)
+Status Ship { pos: Point { x: 200, y: -2070 }, waypoint: Point { x: -19, y: -1 } }
+Acting South(1)
+Status Ship { pos: Point { x: 200, y: -2070 }, waypoint: Point { x: -19, y: -2 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 200, y: -2070 }, waypoint: Point { x: -2, y: 19 } }
+Acting Forward(34)
+Status Ship { pos: Point { x: 132, y: -1424 }, waypoint: Point { x: -2, y: 19 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 132, y: -1424 }, waypoint: Point { x: 19, y: 2 } }
+Acting Forward(96)
+Status Ship { pos: Point { x: 1956, y: -1232 }, waypoint: Point { x: 19, y: 2 } }
+Acting North(1)
+Status Ship { pos: Point { x: 1956, y: -1232 }, waypoint: Point { x: 19, y: 3 } }
+Acting East(5)
+Status Ship { pos: Point { x: 1956, y: -1232 }, waypoint: Point { x: 24, y: 3 } }
+Acting Forward(94)
+Status Ship { pos: Point { x: 4212, y: -950 }, waypoint: Point { x: 24, y: 3 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 4212, y: -950 }, waypoint: Point { x: 3, y: -24 } }
+Acting North(1)
+Status Ship { pos: Point { x: 4212, y: -950 }, waypoint: Point { x: 3, y: -23 } }
+Acting East(1)
+Status Ship { pos: Point { x: 4212, y: -950 }, waypoint: Point { x: 4, y: -23 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 4212, y: -950 }, waypoint: Point { x: -23, y: -4 } }
+Acting South(5)
+Status Ship { pos: Point { x: 4212, y: -950 }, waypoint: Point { x: -23, y: -9 } }
+Acting Forward(59)
+Status Ship { pos: Point { x: 2855, y: -1481 }, waypoint: Point { x: -23, y: -9 } }
+Acting South(2)
+Status Ship { pos: Point { x: 2855, y: -1481 }, waypoint: Point { x: -23, y: -11 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 2855, y: -1481 }, waypoint: Point { x: 11, y: -23 } }
+Acting East(2)
+Status Ship { pos: Point { x: 2855, y: -1481 }, waypoint: Point { x: 13, y: -23 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 2855, y: -1481 }, waypoint: Point { x: 23, y: 13 } }
+Acting South(1)
+Status Ship { pos: Point { x: 2855, y: -1481 }, waypoint: Point { x: 23, y: 12 } }
+Acting West(3)
+Status Ship { pos: Point { x: 2855, y: -1481 }, waypoint: Point { x: 20, y: 12 } }
+Acting North(2)
+Status Ship { pos: Point { x: 2855, y: -1481 }, waypoint: Point { x: 20, y: 14 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 2855, y: -1481 }, waypoint: Point { x: -14, y: 20 } }
+Acting South(1)
+Status Ship { pos: Point { x: 2855, y: -1481 }, waypoint: Point { x: -14, y: 19 } }
+Acting Forward(32)
+Status Ship { pos: Point { x: 2407, y: -873 }, waypoint: Point { x: -14, y: 19 } }
+Acting Forward(92)
+Status Ship { pos: Point { x: 1119, y: 875 }, waypoint: Point { x: -14, y: 19 } }
+Acting North(1)
+Status Ship { pos: Point { x: 1119, y: 875 }, waypoint: Point { x: -14, y: 20 } }
+Acting Forward(10)
+Status Ship { pos: Point { x: 979, y: 1075 }, waypoint: Point { x: -14, y: 20 } }
+Acting East(2)
+Status Ship { pos: Point { x: 979, y: 1075 }, waypoint: Point { x: -12, y: 20 } }
+Acting Forward(92)
+Status Ship { pos: Point { x: -125, y: 2915 }, waypoint: Point { x: -12, y: 20 } }
+Acting North(1)
+Status Ship { pos: Point { x: -125, y: 2915 }, waypoint: Point { x: -12, y: 21 } }
+Acting East(4)
+Status Ship { pos: Point { x: -125, y: 2915 }, waypoint: Point { x: -8, y: 21 } }
+Acting Forward(68)
+Status Ship { pos: Point { x: -669, y: 4343 }, waypoint: Point { x: -8, y: 21 } }
+Acting West(1)
+Status Ship { pos: Point { x: -669, y: 4343 }, waypoint: Point { x: -9, y: 21 } }
+Acting Right(90)
+Status Ship { pos: Point { x: -669, y: 4343 }, waypoint: Point { x: 21, y: 9 } }
+Acting Forward(53)
+Status Ship { pos: Point { x: 444, y: 4820 }, waypoint: Point { x: 21, y: 9 } }
+Acting North(3)
+Status Ship { pos: Point { x: 444, y: 4820 }, waypoint: Point { x: 21, y: 12 } }
+Acting Forward(29)
+Status Ship { pos: Point { x: 1053, y: 5168 }, waypoint: Point { x: 21, y: 12 } }
+Acting South(1)
+Status Ship { pos: Point { x: 1053, y: 5168 }, waypoint: Point { x: 21, y: 11 } }
+Acting Right(180)
+Status Ship { pos: Point { x: 1053, y: 5168 }, waypoint: Point { x: 21, y: 11 } }
+Acting West(5)
+Status Ship { pos: Point { x: 1053, y: 5168 }, waypoint: Point { x: 16, y: 11 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 1053, y: 5168 }, waypoint: Point { x: 11, y: -16 } }
+Acting East(1)
+Status Ship { pos: Point { x: 1053, y: 5168 }, waypoint: Point { x: 12, y: -16 } }
+Acting Forward(79)
+Status Ship { pos: Point { x: 2001, y: 3904 }, waypoint: Point { x: 12, y: -16 } }
+Acting West(2)
+Status Ship { pos: Point { x: 2001, y: 3904 }, waypoint: Point { x: 10, y: -16 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 2001, y: 3904 }, waypoint: Point { x: -16, y: -10 } }
+Acting Forward(70)
+Status Ship { pos: Point { x: 881, y: 3204 }, waypoint: Point { x: -16, y: -10 } }
+Acting South(2)
+Status Ship { pos: Point { x: 881, y: 3204 }, waypoint: Point { x: -16, y: -12 } }
+Acting Forward(17)
+Status Ship { pos: Point { x: 609, y: 3000 }, waypoint: Point { x: -16, y: -12 } }
+Acting South(5)
+Status Ship { pos: Point { x: 609, y: 3000 }, waypoint: Point { x: -16, y: -17 } }
+Acting South(3)
+Status Ship { pos: Point { x: 609, y: 3000 }, waypoint: Point { x: -16, y: -20 } }
+Acting Forward(41)
+Status Ship { pos: Point { x: -47, y: 2180 }, waypoint: Point { x: -16, y: -20 } }
+Acting North(4)
+Status Ship { pos: Point { x: -47, y: 2180 }, waypoint: Point { x: -16, y: -16 } }
+Acting East(5)
+Status Ship { pos: Point { x: -47, y: 2180 }, waypoint: Point { x: -11, y: -16 } }
+Acting Forward(65)
+Status Ship { pos: Point { x: -762, y: 1140 }, waypoint: Point { x: -11, y: -16 } }
+Acting East(1)
+Status Ship { pos: Point { x: -762, y: 1140 }, waypoint: Point { x: -10, y: -16 } }
+Acting North(4)
+Status Ship { pos: Point { x: -762, y: 1140 }, waypoint: Point { x: -10, y: -12 } }
+Acting East(4)
+Status Ship { pos: Point { x: -762, y: 1140 }, waypoint: Point { x: -6, y: -12 } }
+Acting South(3)
+Status Ship { pos: Point { x: -762, y: 1140 }, waypoint: Point { x: -6, y: -15 } }
+Acting Forward(1)
+Status Ship { pos: Point { x: -768, y: 1125 }, waypoint: Point { x: -6, y: -15 } }
+Acting North(1)
+Status Ship { pos: Point { x: -768, y: 1125 }, waypoint: Point { x: -6, y: -14 } }
+Acting East(5)
+Status Ship { pos: Point { x: -768, y: 1125 }, waypoint: Point { x: -1, y: -14 } }
+Acting Forward(73)
+Status Ship { pos: Point { x: -841, y: 103 }, waypoint: Point { x: -1, y: -14 } }
+Acting South(5)
+Status Ship { pos: Point { x: -841, y: 103 }, waypoint: Point { x: -1, y: -19 } }
+Acting Forward(4)
+Status Ship { pos: Point { x: -845, y: 27 }, waypoint: Point { x: -1, y: -19 } }
+Acting Left(90)
+Status Ship { pos: Point { x: -845, y: 27 }, waypoint: Point { x: 19, y: -1 } }
+Acting Forward(100)
+Status Ship { pos: Point { x: 1055, y: -73 }, waypoint: Point { x: 19, y: -1 } }
+Acting East(2)
+Status Ship { pos: Point { x: 1055, y: -73 }, waypoint: Point { x: 21, y: -1 } }
+Acting South(5)
+Status Ship { pos: Point { x: 1055, y: -73 }, waypoint: Point { x: 21, y: -6 } }
+Acting East(2)
+Status Ship { pos: Point { x: 1055, y: -73 }, waypoint: Point { x: 23, y: -6 } }
+Acting Forward(67)
+Status Ship { pos: Point { x: 2596, y: -475 }, waypoint: Point { x: 23, y: -6 } }
+Acting North(3)
+Status Ship { pos: Point { x: 2596, y: -475 }, waypoint: Point { x: 23, y: -3 } }
+Acting Forward(27)
+Status Ship { pos: Point { x: 3217, y: -556 }, waypoint: Point { x: 23, y: -3 } }
+Acting South(4)
+Status Ship { pos: Point { x: 3217, y: -556 }, waypoint: Point { x: 23, y: -7 } }
+Acting East(4)
+Status Ship { pos: Point { x: 3217, y: -556 }, waypoint: Point { x: 27, y: -7 } }
+Acting Forward(12)
+Status Ship { pos: Point { x: 3541, y: -640 }, waypoint: Point { x: 27, y: -7 } }
+Acting South(4)
+Status Ship { pos: Point { x: 3541, y: -640 }, waypoint: Point { x: 27, y: -11 } }
+Acting West(3)
+Status Ship { pos: Point { x: 3541, y: -640 }, waypoint: Point { x: 24, y: -11 } }
+Acting West(2)
+Status Ship { pos: Point { x: 3541, y: -640 }, waypoint: Point { x: 22, y: -11 } }
+Acting Forward(10)
+Status Ship { pos: Point { x: 3761, y: -750 }, waypoint: Point { x: 22, y: -11 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 3761, y: -750 }, waypoint: Point { x: 11, y: 22 } }
+Acting North(5)
+Status Ship { pos: Point { x: 3761, y: -750 }, waypoint: Point { x: 11, y: 27 } }
+Acting East(2)
+Status Ship { pos: Point { x: 3761, y: -750 }, waypoint: Point { x: 13, y: 27 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 3761, y: -750 }, waypoint: Point { x: 27, y: -13 } }
+Acting West(4)
+Status Ship { pos: Point { x: 3761, y: -750 }, waypoint: Point { x: 23, y: -13 } }
+Acting Forward(76)
+Status Ship { pos: Point { x: 5509, y: -1738 }, waypoint: Point { x: 23, y: -13 } }
+Acting South(5)
+Status Ship { pos: Point { x: 5509, y: -1738 }, waypoint: Point { x: 23, y: -18 } }
+Acting Forward(48)
+Status Ship { pos: Point { x: 6613, y: -2602 }, waypoint: Point { x: 23, y: -18 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 6613, y: -2602 }, waypoint: Point { x: -18, y: -23 } }
+Acting Forward(28)
+Status Ship { pos: Point { x: 6109, y: -3246 }, waypoint: Point { x: -18, y: -23 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 6109, y: -3246 }, waypoint: Point { x: 23, y: -18 } }
+Acting Forward(36)
+Status Ship { pos: Point { x: 6937, y: -3894 }, waypoint: Point { x: 23, y: -18 } }
+Acting North(4)
+Status Ship { pos: Point { x: 6937, y: -3894 }, waypoint: Point { x: 23, y: -14 } }
+Acting Forward(27)
+Status Ship { pos: Point { x: 7558, y: -4272 }, waypoint: Point { x: 23, y: -14 } }
+Acting East(4)
+Status Ship { pos: Point { x: 7558, y: -4272 }, waypoint: Point { x: 27, y: -14 } }
+Acting North(3)
+Status Ship { pos: Point { x: 7558, y: -4272 }, waypoint: Point { x: 27, y: -11 } }
+Acting Forward(12)
+Status Ship { pos: Point { x: 7882, y: -4404 }, waypoint: Point { x: 27, y: -11 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 7882, y: -4404 }, waypoint: Point { x: 11, y: 27 } }
+Acting South(1)
+Status Ship { pos: Point { x: 7882, y: -4404 }, waypoint: Point { x: 11, y: 26 } }
+Acting Right(180)
+Status Ship { pos: Point { x: 7882, y: -4404 }, waypoint: Point { x: 11, y: 26 } }
+Acting South(2)
+Status Ship { pos: Point { x: 7882, y: -4404 }, waypoint: Point { x: 11, y: 24 } }
+Acting Forward(77)
+Status Ship { pos: Point { x: 8729, y: -2556 }, waypoint: Point { x: 11, y: 24 } }
+Acting East(2)
+Status Ship { pos: Point { x: 8729, y: -2556 }, waypoint: Point { x: 13, y: 24 } }
+Acting North(5)
+Status Ship { pos: Point { x: 8729, y: -2556 }, waypoint: Point { x: 13, y: 29 } }
+Acting East(3)
+Status Ship { pos: Point { x: 8729, y: -2556 }, waypoint: Point { x: 16, y: 29 } }
+Acting South(2)
+Status Ship { pos: Point { x: 8729, y: -2556 }, waypoint: Point { x: 16, y: 27 } }
+Acting East(1)
+Status Ship { pos: Point { x: 8729, y: -2556 }, waypoint: Point { x: 17, y: 27 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 8729, y: -2556 }, waypoint: Point { x: -27, y: 17 } }
+Acting East(5)
+Status Ship { pos: Point { x: 8729, y: -2556 }, waypoint: Point { x: -22, y: 17 } }
+Acting West(4)
+Status Ship { pos: Point { x: 8729, y: -2556 }, waypoint: Point { x: -26, y: 17 } }
+Acting Forward(3)
+Status Ship { pos: Point { x: 8651, y: -2505 }, waypoint: Point { x: -26, y: 17 } }
+Acting West(4)
+Status Ship { pos: Point { x: 8651, y: -2505 }, waypoint: Point { x: -30, y: 17 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 8651, y: -2505 }, waypoint: Point { x: -17, y: -30 } }
+Acting North(2)
+Status Ship { pos: Point { x: 8651, y: -2505 }, waypoint: Point { x: -17, y: -28 } }
+Acting East(1)
+Status Ship { pos: Point { x: 8651, y: -2505 }, waypoint: Point { x: -16, y: -28 } }
+Acting Forward(61)
+Status Ship { pos: Point { x: 7675, y: -4213 }, waypoint: Point { x: -16, y: -28 } }
+Acting West(4)
+Status Ship { pos: Point { x: 7675, y: -4213 }, waypoint: Point { x: -20, y: -28 } }
+Acting Forward(12)
+Status Ship { pos: Point { x: 7435, y: -4549 }, waypoint: Point { x: -20, y: -28 } }
+Acting North(2)
+Status Ship { pos: Point { x: 7435, y: -4549 }, waypoint: Point { x: -20, y: -26 } }
+Acting Forward(41)
+Status Ship { pos: Point { x: 6615, y: -5615 }, waypoint: Point { x: -20, y: -26 } }
+Acting West(2)
+Status Ship { pos: Point { x: 6615, y: -5615 }, waypoint: Point { x: -22, y: -26 } }
+Acting West(4)
+Status Ship { pos: Point { x: 6615, y: -5615 }, waypoint: Point { x: -26, y: -26 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 6615, y: -5615 }, waypoint: Point { x: 26, y: -26 } }
+Acting West(3)
+Status Ship { pos: Point { x: 6615, y: -5615 }, waypoint: Point { x: 23, y: -26 } }
+Acting Forward(42)
+Status Ship { pos: Point { x: 7581, y: -6707 }, waypoint: Point { x: 23, y: -26 } }
+Acting South(5)
+Status Ship { pos: Point { x: 7581, y: -6707 }, waypoint: Point { x: 23, y: -31 } }
+Acting West(4)
+Status Ship { pos: Point { x: 7581, y: -6707 }, waypoint: Point { x: 19, y: -31 } }
+Acting North(5)
+Status Ship { pos: Point { x: 7581, y: -6707 }, waypoint: Point { x: 19, y: -26 } }
+Acting East(5)
+Status Ship { pos: Point { x: 7581, y: -6707 }, waypoint: Point { x: 24, y: -26 } }
+Acting Forward(94)
+Status Ship { pos: Point { x: 9837, y: -9151 }, waypoint: Point { x: 24, y: -26 } }
+Acting West(5)
+Status Ship { pos: Point { x: 9837, y: -9151 }, waypoint: Point { x: 19, y: -26 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 9837, y: -9151 }, waypoint: Point { x: -26, y: -19 } }
+Acting West(3)
+Status Ship { pos: Point { x: 9837, y: -9151 }, waypoint: Point { x: -29, y: -19 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 9837, y: -9151 }, waypoint: Point { x: -19, y: 29 } }
+Acting East(2)
+Status Ship { pos: Point { x: 9837, y: -9151 }, waypoint: Point { x: -17, y: 29 } }
+Acting South(3)
+Status Ship { pos: Point { x: 9837, y: -9151 }, waypoint: Point { x: -17, y: 26 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 9837, y: -9151 }, waypoint: Point { x: -26, y: -17 } }
+Acting East(1)
+Status Ship { pos: Point { x: 9837, y: -9151 }, waypoint: Point { x: -25, y: -17 } }
+Acting South(4)
+Status Ship { pos: Point { x: 9837, y: -9151 }, waypoint: Point { x: -25, y: -21 } }
+Acting West(1)
+Status Ship { pos: Point { x: 9837, y: -9151 }, waypoint: Point { x: -26, y: -21 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 9837, y: -9151 }, waypoint: Point { x: 21, y: -26 } }
+Acting East(4)
+Status Ship { pos: Point { x: 9837, y: -9151 }, waypoint: Point { x: 25, y: -26 } }
+Acting Forward(57)
+Status Ship { pos: Point { x: 11262, y: -10633 }, waypoint: Point { x: 25, y: -26 } }
+Acting South(3)
+Status Ship { pos: Point { x: 11262, y: -10633 }, waypoint: Point { x: 25, y: -29 } }
+Acting South(4)
+Status Ship { pos: Point { x: 11262, y: -10633 }, waypoint: Point { x: 25, y: -33 } }
+Acting West(4)
+Status Ship { pos: Point { x: 11262, y: -10633 }, waypoint: Point { x: 21, y: -33 } }
+Acting South(1)
+Status Ship { pos: Point { x: 11262, y: -10633 }, waypoint: Point { x: 21, y: -34 } }
+Acting West(2)
+Status Ship { pos: Point { x: 11262, y: -10633 }, waypoint: Point { x: 19, y: -34 } }
+Acting Forward(22)
+Status Ship { pos: Point { x: 11680, y: -11381 }, waypoint: Point { x: 19, y: -34 } }
+Acting West(5)
+Status Ship { pos: Point { x: 11680, y: -11381 }, waypoint: Point { x: 14, y: -34 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 11680, y: -11381 }, waypoint: Point { x: -14, y: 34 } }
+Acting Forward(93)
+Status Ship { pos: Point { x: 10378, y: -8219 }, waypoint: Point { x: -14, y: 34 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 10378, y: -8219 }, waypoint: Point { x: 34, y: 14 } }
+Acting North(2)
+Status Ship { pos: Point { x: 10378, y: -8219 }, waypoint: Point { x: 34, y: 16 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 10378, y: -8219 }, waypoint: Point { x: 16, y: -34 } }
+Acting East(5)
+Status Ship { pos: Point { x: 10378, y: -8219 }, waypoint: Point { x: 21, y: -34 } }
+Acting Right(180)
+Status Ship { pos: Point { x: 10378, y: -8219 }, waypoint: Point { x: 21, y: -34 } }
+Acting East(5)
+Status Ship { pos: Point { x: 10378, y: -8219 }, waypoint: Point { x: 26, y: -34 } }
+Acting Forward(22)
+Status Ship { pos: Point { x: 10950, y: -8967 }, waypoint: Point { x: 26, y: -34 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 10950, y: -8967 }, waypoint: Point { x: -34, y: -26 } }
+Acting Forward(61)
+Status Ship { pos: Point { x: 8876, y: -10553 }, waypoint: Point { x: -34, y: -26 } }
+Acting East(4)
+Status Ship { pos: Point { x: 8876, y: -10553 }, waypoint: Point { x: -30, y: -26 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 8876, y: -10553 }, waypoint: Point { x: 30, y: 26 } }
+Acting East(2)
+Status Ship { pos: Point { x: 8876, y: -10553 }, waypoint: Point { x: 32, y: 26 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 8876, y: -10553 }, waypoint: Point { x: -26, y: 32 } }
+Acting West(5)
+Status Ship { pos: Point { x: 8876, y: -10553 }, waypoint: Point { x: -31, y: 32 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 8876, y: -10553 }, waypoint: Point { x: -32, y: -31 } }
+Acting North(1)
+Status Ship { pos: Point { x: 8876, y: -10553 }, waypoint: Point { x: -32, y: -30 } }
+Acting East(1)
+Status Ship { pos: Point { x: 8876, y: -10553 }, waypoint: Point { x: -31, y: -30 } }
+Acting North(3)
+Status Ship { pos: Point { x: 8876, y: -10553 }, waypoint: Point { x: -31, y: -27 } }
+Acting West(3)
+Status Ship { pos: Point { x: 8876, y: -10553 }, waypoint: Point { x: -34, y: -27 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 8876, y: -10553 }, waypoint: Point { x: 27, y: -34 } }
+Acting North(2)
+Status Ship { pos: Point { x: 8876, y: -10553 }, waypoint: Point { x: 27, y: -32 } }
+Acting West(4)
+Status Ship { pos: Point { x: 8876, y: -10553 }, waypoint: Point { x: 23, y: -32 } }
+Acting South(1)
+Status Ship { pos: Point { x: 8876, y: -10553 }, waypoint: Point { x: 23, y: -33 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 8876, y: -10553 }, waypoint: Point { x: -23, y: 33 } }
+Acting West(5)
+Status Ship { pos: Point { x: 8876, y: -10553 }, waypoint: Point { x: -28, y: 33 } }
+Acting South(4)
+Status Ship { pos: Point { x: 8876, y: -10553 }, waypoint: Point { x: -28, y: 29 } }
+Acting Forward(69)
+Status Ship { pos: Point { x: 6944, y: -8552 }, waypoint: Point { x: -28, y: 29 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 6944, y: -8552 }, waypoint: Point { x: 29, y: 28 } }
+Acting North(2)
+Status Ship { pos: Point { x: 6944, y: -8552 }, waypoint: Point { x: 29, y: 30 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 6944, y: -8552 }, waypoint: Point { x: 30, y: -29 } }
+Acting North(3)
+Status Ship { pos: Point { x: 6944, y: -8552 }, waypoint: Point { x: 30, y: -26 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 6944, y: -8552 }, waypoint: Point { x: -26, y: -30 } }
+Acting Forward(100)
+Status Ship { pos: Point { x: 4344, y: -11552 }, waypoint: Point { x: -26, y: -30 } }
+Acting South(2)
+Status Ship { pos: Point { x: 4344, y: -11552 }, waypoint: Point { x: -26, y: -32 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 4344, y: -11552 }, waypoint: Point { x: 26, y: 32 } }
+Acting Forward(13)
+Status Ship { pos: Point { x: 4682, y: -11136 }, waypoint: Point { x: 26, y: 32 } }
+Acting South(4)
+Status Ship { pos: Point { x: 4682, y: -11136 }, waypoint: Point { x: 26, y: 28 } }
+Acting East(3)
+Status Ship { pos: Point { x: 4682, y: -11136 }, waypoint: Point { x: 29, y: 28 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 4682, y: -11136 }, waypoint: Point { x: -28, y: 29 } }
+Acting Forward(88)
+Status Ship { pos: Point { x: 2218, y: -8584 }, waypoint: Point { x: -28, y: 29 } }
+Acting West(3)
+Status Ship { pos: Point { x: 2218, y: -8584 }, waypoint: Point { x: -31, y: 29 } }
+Acting North(4)
+Status Ship { pos: Point { x: 2218, y: -8584 }, waypoint: Point { x: -31, y: 33 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 2218, y: -8584 }, waypoint: Point { x: 33, y: 31 } }
+Acting West(3)
+Status Ship { pos: Point { x: 2218, y: -8584 }, waypoint: Point { x: 30, y: 31 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 2218, y: -8584 }, waypoint: Point { x: 31, y: -30 } }
+Acting Forward(19)
+Status Ship { pos: Point { x: 2807, y: -9154 }, waypoint: Point { x: 31, y: -30 } }
+Acting East(4)
+Status Ship { pos: Point { x: 2807, y: -9154 }, waypoint: Point { x: 35, y: -30 } }
+Acting Forward(28)
+Status Ship { pos: Point { x: 3787, y: -9994 }, waypoint: Point { x: 35, y: -30 } }
+Acting West(3)
+Status Ship { pos: Point { x: 3787, y: -9994 }, waypoint: Point { x: 32, y: -30 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 3787, y: -9994 }, waypoint: Point { x: -30, y: -32 } }
+Acting North(2)
+Status Ship { pos: Point { x: 3787, y: -9994 }, waypoint: Point { x: -30, y: -30 } }
+Acting Forward(5)
+Status Ship { pos: Point { x: 3637, y: -10144 }, waypoint: Point { x: -30, y: -30 } }
+Acting West(4)
+Status Ship { pos: Point { x: 3637, y: -10144 }, waypoint: Point { x: -34, y: -30 } }
+Acting Forward(88)
+Status Ship { pos: Point { x: 645, y: -12784 }, waypoint: Point { x: -34, y: -30 } }
+Acting South(3)
+Status Ship { pos: Point { x: 645, y: -12784 }, waypoint: Point { x: -34, y: -33 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 645, y: -12784 }, waypoint: Point { x: 34, y: 33 } }
+Acting Forward(14)
+Status Ship { pos: Point { x: 1121, y: -12322 }, waypoint: Point { x: 34, y: 33 } }
+Acting North(4)
+Status Ship { pos: Point { x: 1121, y: -12322 }, waypoint: Point { x: 34, y: 37 } }
+Acting Right(180)
+Status Ship { pos: Point { x: 1121, y: -12322 }, waypoint: Point { x: 34, y: 37 } }
+Acting West(3)
+Status Ship { pos: Point { x: 1121, y: -12322 }, waypoint: Point { x: 31, y: 37 } }
+Acting North(1)
+Status Ship { pos: Point { x: 1121, y: -12322 }, waypoint: Point { x: 31, y: 38 } }
+Acting Forward(87)
+Status Ship { pos: Point { x: 3818, y: -9016 }, waypoint: Point { x: 31, y: 38 } }
+Acting North(2)
+Status Ship { pos: Point { x: 3818, y: -9016 }, waypoint: Point { x: 31, y: 40 } }
+Acting Forward(73)
+Status Ship { pos: Point { x: 6081, y: -6096 }, waypoint: Point { x: 31, y: 40 } }
+Acting South(1)
+Status Ship { pos: Point { x: 6081, y: -6096 }, waypoint: Point { x: 31, y: 39 } }
+Acting Forward(53)
+Status Ship { pos: Point { x: 7724, y: -4029 }, waypoint: Point { x: 31, y: 39 } }
+Acting North(1)
+Status Ship { pos: Point { x: 7724, y: -4029 }, waypoint: Point { x: 31, y: 40 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 7724, y: -4029 }, waypoint: Point { x: -40, y: 31 } }
+Acting South(2)
+Status Ship { pos: Point { x: 7724, y: -4029 }, waypoint: Point { x: -40, y: 29 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 7724, y: -4029 }, waypoint: Point { x: 40, y: -29 } }
+Acting West(5)
+Status Ship { pos: Point { x: 7724, y: -4029 }, waypoint: Point { x: 35, y: -29 } }
+Acting North(2)
+Status Ship { pos: Point { x: 7724, y: -4029 }, waypoint: Point { x: 35, y: -27 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 7724, y: -4029 }, waypoint: Point { x: 27, y: 35 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 7724, y: -4029 }, waypoint: Point { x: 35, y: -27 } }
+Acting Forward(1)
+Status Ship { pos: Point { x: 7759, y: -4056 }, waypoint: Point { x: 35, y: -27 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 7759, y: -4056 }, waypoint: Point { x: 27, y: 35 } }
+Acting East(1)
+Status Ship { pos: Point { x: 7759, y: -4056 }, waypoint: Point { x: 28, y: 35 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 7759, y: -4056 }, waypoint: Point { x: 35, y: -28 } }
+Acting North(3)
+Status Ship { pos: Point { x: 7759, y: -4056 }, waypoint: Point { x: 35, y: -25 } }
+Acting Forward(73)
+Status Ship { pos: Point { x: 10314, y: -5881 }, waypoint: Point { x: 35, y: -25 } }
+Acting East(4)
+Status Ship { pos: Point { x: 10314, y: -5881 }, waypoint: Point { x: 39, y: -25 } }
+Acting Forward(58)
+Status Ship { pos: Point { x: 12576, y: -7331 }, waypoint: Point { x: 39, y: -25 } }
+Acting South(5)
+Status Ship { pos: Point { x: 12576, y: -7331 }, waypoint: Point { x: 39, y: -30 } }
+Acting East(3)
+Status Ship { pos: Point { x: 12576, y: -7331 }, waypoint: Point { x: 42, y: -30 } }
+Acting East(4)
+Status Ship { pos: Point { x: 12576, y: -7331 }, waypoint: Point { x: 46, y: -30 } }
+Acting Forward(88)
+Status Ship { pos: Point { x: 16624, y: -9971 }, waypoint: Point { x: 46, y: -30 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 16624, y: -9971 }, waypoint: Point { x: 30, y: 46 } }
+Acting East(3)
+Status Ship { pos: Point { x: 16624, y: -9971 }, waypoint: Point { x: 33, y: 46 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 16624, y: -9971 }, waypoint: Point { x: -46, y: 33 } }
+Acting Forward(8)
+Status Ship { pos: Point { x: 16256, y: -9707 }, waypoint: Point { x: -46, y: 33 } }
+Acting North(2)
+Status Ship { pos: Point { x: 16256, y: -9707 }, waypoint: Point { x: -46, y: 35 } }
+Acting West(3)
+Status Ship { pos: Point { x: 16256, y: -9707 }, waypoint: Point { x: -49, y: 35 } }
+Acting Forward(62)
+Status Ship { pos: Point { x: 13218, y: -7537 }, waypoint: Point { x: -49, y: 35 } }
+Acting South(3)
+Status Ship { pos: Point { x: 13218, y: -7537 }, waypoint: Point { x: -49, y: 32 } }
+Acting Forward(25)
+Status Ship { pos: Point { x: 11993, y: -6737 }, waypoint: Point { x: -49, y: 32 } }
+Acting East(3)
+Status Ship { pos: Point { x: 11993, y: -6737 }, waypoint: Point { x: -46, y: 32 } }
+Acting North(5)
+Status Ship { pos: Point { x: 11993, y: -6737 }, waypoint: Point { x: -46, y: 37 } }
+Acting Forward(24)
+Status Ship { pos: Point { x: 10889, y: -5849 }, waypoint: Point { x: -46, y: 37 } }
+Acting Forward(21)
+Status Ship { pos: Point { x: 9923, y: -5072 }, waypoint: Point { x: -46, y: 37 } }
+Acting West(1)
+Status Ship { pos: Point { x: 9923, y: -5072 }, waypoint: Point { x: -47, y: 37 } }
+Acting South(3)
+Status Ship { pos: Point { x: 9923, y: -5072 }, waypoint: Point { x: -47, y: 34 } }
+Acting West(3)
+Status Ship { pos: Point { x: 9923, y: -5072 }, waypoint: Point { x: -50, y: 34 } }
+Acting Forward(18)
+Status Ship { pos: Point { x: 9023, y: -4460 }, waypoint: Point { x: -50, y: 34 } }
+Acting South(5)
+Status Ship { pos: Point { x: 9023, y: -4460 }, waypoint: Point { x: -50, y: 29 } }
+Acting Forward(93)
+Status Ship { pos: Point { x: 4373, y: -1763 }, waypoint: Point { x: -50, y: 29 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 4373, y: -1763 }, waypoint: Point { x: -29, y: -50 } }
+Acting North(3)
+Status Ship { pos: Point { x: 4373, y: -1763 }, waypoint: Point { x: -29, y: -47 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 4373, y: -1763 }, waypoint: Point { x: 29, y: 47 } }
+Acting South(5)
+Status Ship { pos: Point { x: 4373, y: -1763 }, waypoint: Point { x: 29, y: 42 } }
+Acting Forward(55)
+Status Ship { pos: Point { x: 5968, y: 547 }, waypoint: Point { x: 29, y: 42 } }
+Acting West(1)
+Status Ship { pos: Point { x: 5968, y: 547 }, waypoint: Point { x: 28, y: 42 } }
+Acting Forward(38)
+Status Ship { pos: Point { x: 7032, y: 2143 }, waypoint: Point { x: 28, y: 42 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 7032, y: 2143 }, waypoint: Point { x: -42, y: 28 } }
+Acting East(2)
+Status Ship { pos: Point { x: 7032, y: 2143 }, waypoint: Point { x: -40, y: 28 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 7032, y: 2143 }, waypoint: Point { x: 40, y: -28 } }
+Acting Forward(66)
+Status Ship { pos: Point { x: 9672, y: 295 }, waypoint: Point { x: 40, y: -28 } }
+Acting South(3)
+Status Ship { pos: Point { x: 9672, y: 295 }, waypoint: Point { x: 40, y: -31 } }
+Acting Forward(55)
+Status Ship { pos: Point { x: 11872, y: -1410 }, waypoint: Point { x: 40, y: -31 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 11872, y: -1410 }, waypoint: Point { x: -31, y: -40 } }
+Acting North(5)
+Status Ship { pos: Point { x: 11872, y: -1410 }, waypoint: Point { x: -31, y: -35 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 11872, y: -1410 }, waypoint: Point { x: -35, y: 31 } }
+Acting Forward(31)
+Status Ship { pos: Point { x: 10787, y: -449 }, waypoint: Point { x: -35, y: 31 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 10787, y: -449 }, waypoint: Point { x: 31, y: 35 } }
+Acting Forward(70)
+Status Ship { pos: Point { x: 12957, y: 2001 }, waypoint: Point { x: 31, y: 35 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 12957, y: 2001 }, waypoint: Point { x: -35, y: 31 } }
+Acting East(3)
+Status Ship { pos: Point { x: 12957, y: 2001 }, waypoint: Point { x: -32, y: 31 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 12957, y: 2001 }, waypoint: Point { x: -31, y: -32 } }
+Acting East(1)
+Status Ship { pos: Point { x: 12957, y: 2001 }, waypoint: Point { x: -30, y: -32 } }
+Acting Forward(95)
+Status Ship { pos: Point { x: 10107, y: -1039 }, waypoint: Point { x: -30, y: -32 } }
+Acting West(3)
+Status Ship { pos: Point { x: 10107, y: -1039 }, waypoint: Point { x: -33, y: -32 } }
+Acting East(5)
+Status Ship { pos: Point { x: 10107, y: -1039 }, waypoint: Point { x: -28, y: -32 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 10107, y: -1039 }, waypoint: Point { x: 32, y: -28 } }
+Acting Forward(58)
+Status Ship { pos: Point { x: 11963, y: -2663 }, waypoint: Point { x: 32, y: -28 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 11963, y: -2663 }, waypoint: Point { x: -28, y: -32 } }
+Acting Forward(26)
+Status Ship { pos: Point { x: 11235, y: -3495 }, waypoint: Point { x: -28, y: -32 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 11235, y: -3495 }, waypoint: Point { x: -32, y: 28 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 11235, y: -3495 }, waypoint: Point { x: 32, y: -28 } }
+Acting North(1)
+Status Ship { pos: Point { x: 11235, y: -3495 }, waypoint: Point { x: 32, y: -27 } }
+Acting Forward(14)
+Status Ship { pos: Point { x: 11683, y: -3873 }, waypoint: Point { x: 32, y: -27 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 11683, y: -3873 }, waypoint: Point { x: 27, y: 32 } }
+Acting North(4)
+Status Ship { pos: Point { x: 11683, y: -3873 }, waypoint: Point { x: 27, y: 36 } }
+Acting East(5)
+Status Ship { pos: Point { x: 11683, y: -3873 }, waypoint: Point { x: 32, y: 36 } }
+Acting South(2)
+Status Ship { pos: Point { x: 11683, y: -3873 }, waypoint: Point { x: 32, y: 34 } }
+Acting East(1)
+Status Ship { pos: Point { x: 11683, y: -3873 }, waypoint: Point { x: 33, y: 34 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 11683, y: -3873 }, waypoint: Point { x: 34, y: -33 } }
+Acting West(5)
+Status Ship { pos: Point { x: 11683, y: -3873 }, waypoint: Point { x: 29, y: -33 } }
+Acting South(5)
+Status Ship { pos: Point { x: 11683, y: -3873 }, waypoint: Point { x: 29, y: -38 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 11683, y: -3873 }, waypoint: Point { x: 38, y: 29 } }
+Acting South(5)
+Status Ship { pos: Point { x: 11683, y: -3873 }, waypoint: Point { x: 38, y: 24 } }
+Acting Right(270)
+Status Ship { pos: Point { x: 11683, y: -3873 }, waypoint: Point { x: -24, y: 38 } }
+Acting Forward(96)
+Status Ship { pos: Point { x: 9379, y: -225 }, waypoint: Point { x: -24, y: 38 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 9379, y: -225 }, waypoint: Point { x: -38, y: -24 } }
+Acting West(3)
+Status Ship { pos: Point { x: 9379, y: -225 }, waypoint: Point { x: -41, y: -24 } }
+Acting Forward(48)
+Status Ship { pos: Point { x: 7411, y: -1377 }, waypoint: Point { x: -41, y: -24 } }
+Acting South(5)
+Status Ship { pos: Point { x: 7411, y: -1377 }, waypoint: Point { x: -41, y: -29 } }
+Acting West(4)
+Status Ship { pos: Point { x: 7411, y: -1377 }, waypoint: Point { x: -45, y: -29 } }
+Acting Forward(76)
+Status Ship { pos: Point { x: 3991, y: -3581 }, waypoint: Point { x: -45, y: -29 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 3991, y: -3581 }, waypoint: Point { x: 29, y: -45 } }
+Acting South(3)
+Status Ship { pos: Point { x: 3991, y: -3581 }, waypoint: Point { x: 29, y: -48 } }
+Acting West(5)
+Status Ship { pos: Point { x: 3991, y: -3581 }, waypoint: Point { x: 24, y: -48 } }
+Acting South(3)
+Status Ship { pos: Point { x: 3991, y: -3581 }, waypoint: Point { x: 24, y: -51 } }
+Acting Forward(71)
+Status Ship { pos: Point { x: 5695, y: -7202 }, waypoint: Point { x: 24, y: -51 } }
+Acting South(1)
+Status Ship { pos: Point { x: 5695, y: -7202 }, waypoint: Point { x: 24, y: -52 } }
+Acting Forward(96)
+Status Ship { pos: Point { x: 7999, y: -12194 }, waypoint: Point { x: 24, y: -52 } }
+Acting North(4)
+Status Ship { pos: Point { x: 7999, y: -12194 }, waypoint: Point { x: 24, y: -48 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 7999, y: -12194 }, waypoint: Point { x: -48, y: -24 } }
+Acting East(5)
+Status Ship { pos: Point { x: 7999, y: -12194 }, waypoint: Point { x: -43, y: -24 } }
+Acting Forward(16)
+Status Ship { pos: Point { x: 7311, y: -12578 }, waypoint: Point { x: -43, y: -24 } }
+Acting Left(270)
+Status Ship { pos: Point { x: 7311, y: -12578 }, waypoint: Point { x: -24, y: 43 } }
+Acting North(2)
+Status Ship { pos: Point { x: 7311, y: -12578 }, waypoint: Point { x: -24, y: 45 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 7311, y: -12578 }, waypoint: Point { x: -45, y: -24 } }
+Acting North(2)
+Status Ship { pos: Point { x: 7311, y: -12578 }, waypoint: Point { x: -45, y: -22 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 7311, y: -12578 }, waypoint: Point { x: -22, y: 45 } }
+Acting South(1)
+Status Ship { pos: Point { x: 7311, y: -12578 }, waypoint: Point { x: -22, y: 44 } }
+Acting North(2)
+Status Ship { pos: Point { x: 7311, y: -12578 }, waypoint: Point { x: -22, y: 46 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 7311, y: -12578 }, waypoint: Point { x: 46, y: 22 } }
+Acting Forward(13)
+Status Ship { pos: Point { x: 7909, y: -12292 }, waypoint: Point { x: 46, y: 22 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 7909, y: -12292 }, waypoint: Point { x: -22, y: 46 } }
+Acting North(2)
+Status Ship { pos: Point { x: 7909, y: -12292 }, waypoint: Point { x: -22, y: 48 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 7909, y: -12292 }, waypoint: Point { x: -48, y: -22 } }
+Acting Forward(67)
+Status Ship { pos: Point { x: 4693, y: -13766 }, waypoint: Point { x: -48, y: -22 } }
+Acting Right(180)
+Status Ship { pos: Point { x: 4693, y: -13766 }, waypoint: Point { x: -48, y: -22 } }
+Acting Forward(26)
+Status Ship { pos: Point { x: 3445, y: -14338 }, waypoint: Point { x: -48, y: -22 } }
+Acting Right(270)
+Status Ship { pos: Point { x: 3445, y: -14338 }, waypoint: Point { x: 22, y: -48 } }
+Acting Right(270)
+Status Ship { pos: Point { x: 3445, y: -14338 }, waypoint: Point { x: 48, y: 22 } }
+Acting West(1)
+Status Ship { pos: Point { x: 3445, y: -14338 }, waypoint: Point { x: 47, y: 22 } }
+Acting South(4)
+Status Ship { pos: Point { x: 3445, y: -14338 }, waypoint: Point { x: 47, y: 18 } }
+Acting Right(180)
+Status Ship { pos: Point { x: 3445, y: -14338 }, waypoint: Point { x: 47, y: 18 } }
+Acting East(2)
+Status Ship { pos: Point { x: 3445, y: -14338 }, waypoint: Point { x: 49, y: 18 } }
+Acting Forward(86)
+Status Ship { pos: Point { x: 7659, y: -12790 }, waypoint: Point { x: 49, y: 18 } }
+Acting South(5)
+Status Ship { pos: Point { x: 7659, y: -12790 }, waypoint: Point { x: 49, y: 13 } }
+Acting East(5)
+Status Ship { pos: Point { x: 7659, y: -12790 }, waypoint: Point { x: 54, y: 13 } }
+Acting North(4)
+Status Ship { pos: Point { x: 7659, y: -12790 }, waypoint: Point { x: 54, y: 17 } }
+Acting West(5)
+Status Ship { pos: Point { x: 7659, y: -12790 }, waypoint: Point { x: 49, y: 17 } }
+Acting North(4)
+Status Ship { pos: Point { x: 7659, y: -12790 }, waypoint: Point { x: 49, y: 21 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 7659, y: -12790 }, waypoint: Point { x: -21, y: 49 } }
+Acting East(4)
+Status Ship { pos: Point { x: 7659, y: -12790 }, waypoint: Point { x: -17, y: 49 } }
+Acting Forward(96)
+Status Ship { pos: Point { x: 6027, y: -8086 }, waypoint: Point { x: -17, y: 49 } }
+Acting Right(180)
+Status Ship { pos: Point { x: 6027, y: -8086 }, waypoint: Point { x: -17, y: 49 } }
+Acting Forward(61)
+Status Ship { pos: Point { x: 4990, y: -5097 }, waypoint: Point { x: -17, y: 49 } }
+Acting West(4)
+Status Ship { pos: Point { x: 4990, y: -5097 }, waypoint: Point { x: -21, y: 49 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 4990, y: -5097 }, waypoint: Point { x: -49, y: -21 } }
+Acting Forward(45)
+Status Ship { pos: Point { x: 2785, y: -6042 }, waypoint: Point { x: -49, y: -21 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 2785, y: -6042 }, waypoint: Point { x: 21, y: -49 } }
+Acting Forward(62)
+Status Ship { pos: Point { x: 4087, y: -9080 }, waypoint: Point { x: 21, y: -49 } }
+Acting East(4)
+Status Ship { pos: Point { x: 4087, y: -9080 }, waypoint: Point { x: 25, y: -49 } }
+Acting North(5)
+Status Ship { pos: Point { x: 4087, y: -9080 }, waypoint: Point { x: 25, y: -44 } }
+Acting East(4)
+Status Ship { pos: Point { x: 4087, y: -9080 }, waypoint: Point { x: 29, y: -44 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 4087, y: -9080 }, waypoint: Point { x: -44, y: -29 } }
+Acting North(3)
+Status Ship { pos: Point { x: 4087, y: -9080 }, waypoint: Point { x: -44, y: -26 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 4087, y: -9080 }, waypoint: Point { x: 26, y: -44 } }
+Acting Forward(53)
+Status Ship { pos: Point { x: 5465, y: -11412 }, waypoint: Point { x: 26, y: -44 } }
+Acting North(4)
+Status Ship { pos: Point { x: 5465, y: -11412 }, waypoint: Point { x: 26, y: -40 } }
+Acting West(1)
+Status Ship { pos: Point { x: 5465, y: -11412 }, waypoint: Point { x: 25, y: -40 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 5465, y: -11412 }, waypoint: Point { x: 40, y: 25 } }
+Acting Forward(82)
+Status Ship { pos: Point { x: 8745, y: -9362 }, waypoint: Point { x: 40, y: 25 } }
+Acting Forward(33)
+Status Ship { pos: Point { x: 10065, y: -8537 }, waypoint: Point { x: 40, y: 25 } }
+Acting North(3)
+Status Ship { pos: Point { x: 10065, y: -8537 }, waypoint: Point { x: 40, y: 28 } }
+Acting Forward(24)
+Status Ship { pos: Point { x: 11025, y: -7865 }, waypoint: Point { x: 40, y: 28 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 11025, y: -7865 }, waypoint: Point { x: 28, y: -40 } }
+Acting Forward(97)
+Status Ship { pos: Point { x: 13741, y: -11745 }, waypoint: Point { x: 28, y: -40 } }
+Acting East(3)
+Status Ship { pos: Point { x: 13741, y: -11745 }, waypoint: Point { x: 31, y: -40 } }
+Acting Forward(13)
+Status Ship { pos: Point { x: 14144, y: -12265 }, waypoint: Point { x: 31, y: -40 } }
+Acting North(5)
+Status Ship { pos: Point { x: 14144, y: -12265 }, waypoint: Point { x: 31, y: -35 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 14144, y: -12265 }, waypoint: Point { x: -35, y: -31 } }
+Acting West(4)
+Status Ship { pos: Point { x: 14144, y: -12265 }, waypoint: Point { x: -39, y: -31 } }
+Acting North(1)
+Status Ship { pos: Point { x: 14144, y: -12265 }, waypoint: Point { x: -39, y: -30 } }
+Acting East(5)
+Status Ship { pos: Point { x: 14144, y: -12265 }, waypoint: Point { x: -34, y: -30 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 14144, y: -12265 }, waypoint: Point { x: 30, y: -34 } }
+Acting East(2)
+Status Ship { pos: Point { x: 14144, y: -12265 }, waypoint: Point { x: 32, y: -34 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 14144, y: -12265 }, waypoint: Point { x: -32, y: 34 } }
+Acting South(2)
+Status Ship { pos: Point { x: 14144, y: -12265 }, waypoint: Point { x: -32, y: 32 } }
+Acting Forward(41)
+Status Ship { pos: Point { x: 12832, y: -10953 }, waypoint: Point { x: -32, y: 32 } }
+Acting North(1)
+Status Ship { pos: Point { x: 12832, y: -10953 }, waypoint: Point { x: -32, y: 33 } }
+Acting East(2)
+Status Ship { pos: Point { x: 12832, y: -10953 }, waypoint: Point { x: -30, y: 33 } }
+Acting South(1)
+Status Ship { pos: Point { x: 12832, y: -10953 }, waypoint: Point { x: -30, y: 32 } }
+Acting Forward(98)
+Status Ship { pos: Point { x: 9892, y: -7817 }, waypoint: Point { x: -30, y: 32 } }
+Acting East(2)
+Status Ship { pos: Point { x: 9892, y: -7817 }, waypoint: Point { x: -28, y: 32 } }
+Acting Right(180)
+Status Ship { pos: Point { x: 9892, y: -7817 }, waypoint: Point { x: -28, y: 32 } }
+Acting Forward(70)
+Status Ship { pos: Point { x: 7932, y: -5577 }, waypoint: Point { x: -28, y: 32 } }
+Acting North(4)
+Status Ship { pos: Point { x: 7932, y: -5577 }, waypoint: Point { x: -28, y: 36 } }
+Acting Forward(33)
+Status Ship { pos: Point { x: 7008, y: -4389 }, waypoint: Point { x: -28, y: 36 } }
+Acting North(5)
+Status Ship { pos: Point { x: 7008, y: -4389 }, waypoint: Point { x: -28, y: 41 } }
+Acting Forward(64)
+Status Ship { pos: Point { x: 5216, y: -1765 }, waypoint: Point { x: -28, y: 41 } }
+Acting Right(180)
+Status Ship { pos: Point { x: 5216, y: -1765 }, waypoint: Point { x: -28, y: 41 } }
+Acting West(1)
+Status Ship { pos: Point { x: 5216, y: -1765 }, waypoint: Point { x: -29, y: 41 } }
+Acting Right(180)
+Status Ship { pos: Point { x: 5216, y: -1765 }, waypoint: Point { x: -29, y: 41 } }
+Acting Forward(24)
+Status Ship { pos: Point { x: 4520, y: -781 }, waypoint: Point { x: -29, y: 41 } }
+Acting North(1)
+Status Ship { pos: Point { x: 4520, y: -781 }, waypoint: Point { x: -29, y: 42 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 4520, y: -781 }, waypoint: Point { x: 29, y: -42 } }
+Acting West(1)
+Status Ship { pos: Point { x: 4520, y: -781 }, waypoint: Point { x: 28, y: -42 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 4520, y: -781 }, waypoint: Point { x: 42, y: 28 } }
+Acting East(1)
+Status Ship { pos: Point { x: 4520, y: -781 }, waypoint: Point { x: 43, y: 28 } }
+Acting North(3)
+Status Ship { pos: Point { x: 4520, y: -781 }, waypoint: Point { x: 43, y: 31 } }
+Acting East(1)
+Status Ship { pos: Point { x: 4520, y: -781 }, waypoint: Point { x: 44, y: 31 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 4520, y: -781 }, waypoint: Point { x: -31, y: 44 } }
+Acting West(3)
+Status Ship { pos: Point { x: 4520, y: -781 }, waypoint: Point { x: -34, y: 44 } }
+Acting South(5)
+Status Ship { pos: Point { x: 4520, y: -781 }, waypoint: Point { x: -34, y: 39 } }
+Acting East(4)
+Status Ship { pos: Point { x: 4520, y: -781 }, waypoint: Point { x: -30, y: 39 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 4520, y: -781 }, waypoint: Point { x: -39, y: -30 } }
+Acting West(1)
+Status Ship { pos: Point { x: 4520, y: -781 }, waypoint: Point { x: -40, y: -30 } }
+Acting Forward(26)
+Status Ship { pos: Point { x: 3480, y: -1561 }, waypoint: Point { x: -40, y: -30 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 3480, y: -1561 }, waypoint: Point { x: 30, y: -40 } }
+Acting North(1)
+Status Ship { pos: Point { x: 3480, y: -1561 }, waypoint: Point { x: 30, y: -39 } }
+Acting West(2)
+Status Ship { pos: Point { x: 3480, y: -1561 }, waypoint: Point { x: 28, y: -39 } }
+Acting Forward(22)
+Status Ship { pos: Point { x: 4096, y: -2419 }, waypoint: Point { x: 28, y: -39 } }
+Acting West(4)
+Status Ship { pos: Point { x: 4096, y: -2419 }, waypoint: Point { x: 24, y: -39 } }
+Acting South(1)
+Status Ship { pos: Point { x: 4096, y: -2419 }, waypoint: Point { x: 24, y: -40 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 4096, y: -2419 }, waypoint: Point { x: -40, y: -24 } }
+Acting South(3)
+Status Ship { pos: Point { x: 4096, y: -2419 }, waypoint: Point { x: -40, y: -27 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 4096, y: -2419 }, waypoint: Point { x: -27, y: 40 } }
+Acting Forward(7)
+Status Ship { pos: Point { x: 3907, y: -2139 }, waypoint: Point { x: -27, y: 40 } }
+Acting East(1)
+Status Ship { pos: Point { x: 3907, y: -2139 }, waypoint: Point { x: -26, y: 40 } }
+Acting South(5)
+Status Ship { pos: Point { x: 3907, y: -2139 }, waypoint: Point { x: -26, y: 35 } }
+Acting West(5)
+Status Ship { pos: Point { x: 3907, y: -2139 }, waypoint: Point { x: -31, y: 35 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 3907, y: -2139 }, waypoint: Point { x: 31, y: -35 } }
+Acting Forward(55)
+Status Ship { pos: Point { x: 5612, y: -4064 }, waypoint: Point { x: 31, y: -35 } }
+Acting East(4)
+Status Ship { pos: Point { x: 5612, y: -4064 }, waypoint: Point { x: 35, y: -35 } }
+Acting North(5)
+Status Ship { pos: Point { x: 5612, y: -4064 }, waypoint: Point { x: 35, y: -30 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 5612, y: -4064 }, waypoint: Point { x: -30, y: -35 } }
+Acting Forward(29)
+Status Ship { pos: Point { x: 4742, y: -5079 }, waypoint: Point { x: -30, y: -35 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 4742, y: -5079 }, waypoint: Point { x: 35, y: -30 } }
+Acting South(3)
+Status Ship { pos: Point { x: 4742, y: -5079 }, waypoint: Point { x: 35, y: -33 } }
+Acting Forward(9)
+Status Ship { pos: Point { x: 5057, y: -5376 }, waypoint: Point { x: 35, y: -33 } }
+Acting South(4)
+Status Ship { pos: Point { x: 5057, y: -5376 }, waypoint: Point { x: 35, y: -37 } }
+Acting Right(270)
+Status Ship { pos: Point { x: 5057, y: -5376 }, waypoint: Point { x: 37, y: 35 } }
+Acting Forward(72)
+Status Ship { pos: Point { x: 7721, y: -2856 }, waypoint: Point { x: 37, y: 35 } }
+Acting West(4)
+Status Ship { pos: Point { x: 7721, y: -2856 }, waypoint: Point { x: 33, y: 35 } }
+Acting North(3)
+Status Ship { pos: Point { x: 7721, y: -2856 }, waypoint: Point { x: 33, y: 38 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 7721, y: -2856 }, waypoint: Point { x: -33, y: -38 } }
+Acting West(2)
+Status Ship { pos: Point { x: 7721, y: -2856 }, waypoint: Point { x: -35, y: -38 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 7721, y: -2856 }, waypoint: Point { x: 38, y: -35 } }
+Acting South(4)
+Status Ship { pos: Point { x: 7721, y: -2856 }, waypoint: Point { x: 38, y: -39 } }
+Acting Forward(84)
+Status Ship { pos: Point { x: 10913, y: -6132 }, waypoint: Point { x: 38, y: -39 } }
+Acting North(1)
+Status Ship { pos: Point { x: 10913, y: -6132 }, waypoint: Point { x: 38, y: -38 } }
+Acting Forward(40)
+Status Ship { pos: Point { x: 12433, y: -7652 }, waypoint: Point { x: 38, y: -38 } }
+Acting North(3)
+Status Ship { pos: Point { x: 12433, y: -7652 }, waypoint: Point { x: 38, y: -35 } }
+Acting Forward(100)
+Status Ship { pos: Point { x: 16233, y: -11152 }, waypoint: Point { x: 38, y: -35 } }
+Acting North(5)
+Status Ship { pos: Point { x: 16233, y: -11152 }, waypoint: Point { x: 38, y: -30 } }
+Acting Right(180)
+Status Ship { pos: Point { x: 16233, y: -11152 }, waypoint: Point { x: 38, y: -30 } }
+Acting South(4)
+Status Ship { pos: Point { x: 16233, y: -11152 }, waypoint: Point { x: 38, y: -34 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 16233, y: -11152 }, waypoint: Point { x: -34, y: -38 } }
+Acting South(2)
+Status Ship { pos: Point { x: 16233, y: -11152 }, waypoint: Point { x: -34, y: -40 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 16233, y: -11152 }, waypoint: Point { x: 40, y: -34 } }
+Acting West(1)
+Status Ship { pos: Point { x: 16233, y: -11152 }, waypoint: Point { x: 39, y: -34 } }
+Acting North(5)
+Status Ship { pos: Point { x: 16233, y: -11152 }, waypoint: Point { x: 39, y: -29 } }
+Acting East(4)
+Status Ship { pos: Point { x: 16233, y: -11152 }, waypoint: Point { x: 43, y: -29 } }
+Acting South(5)
+Status Ship { pos: Point { x: 16233, y: -11152 }, waypoint: Point { x: 43, y: -34 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 16233, y: -11152 }, waypoint: Point { x: -34, y: -43 } }
+Acting Forward(23)
+Status Ship { pos: Point { x: 15451, y: -12141 }, waypoint: Point { x: -34, y: -43 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 15451, y: -12141 }, waypoint: Point { x: 43, y: -34 } }
+Acting East(4)
+Status Ship { pos: Point { x: 15451, y: -12141 }, waypoint: Point { x: 47, y: -34 } }
+Acting East(1)
+Status Ship { pos: Point { x: 15451, y: -12141 }, waypoint: Point { x: 48, y: -34 } }
+Acting Right(180)
+Status Ship { pos: Point { x: 15451, y: -12141 }, waypoint: Point { x: 48, y: -34 } }
+Acting South(2)
+Status Ship { pos: Point { x: 15451, y: -12141 }, waypoint: Point { x: 48, y: -36 } }
+Acting Forward(81)
+Status Ship { pos: Point { x: 19339, y: -15057 }, waypoint: Point { x: 48, y: -36 } }
+Acting South(5)
+Status Ship { pos: Point { x: 19339, y: -15057 }, waypoint: Point { x: 48, y: -41 } }
+Acting East(1)
+Status Ship { pos: Point { x: 19339, y: -15057 }, waypoint: Point { x: 49, y: -41 } }
+Acting East(1)
+Status Ship { pos: Point { x: 19339, y: -15057 }, waypoint: Point { x: 50, y: -41 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 19339, y: -15057 }, waypoint: Point { x: -41, y: -50 } }
+Acting Forward(72)
+Status Ship { pos: Point { x: 16387, y: -18657 }, waypoint: Point { x: -41, y: -50 } }
+Acting North(2)
+Status Ship { pos: Point { x: 16387, y: -18657 }, waypoint: Point { x: -41, y: -48 } }
+Acting West(4)
+Status Ship { pos: Point { x: 16387, y: -18657 }, waypoint: Point { x: -45, y: -48 } }
+Acting South(3)
+Status Ship { pos: Point { x: 16387, y: -18657 }, waypoint: Point { x: -45, y: -51 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 16387, y: -18657 }, waypoint: Point { x: 45, y: 51 } }
+Acting North(5)
+Status Ship { pos: Point { x: 16387, y: -18657 }, waypoint: Point { x: 45, y: 56 } }
+Acting West(2)
+Status Ship { pos: Point { x: 16387, y: -18657 }, waypoint: Point { x: 43, y: 56 } }
+Acting Forward(50)
+Status Ship { pos: Point { x: 18537, y: -15857 }, waypoint: Point { x: 43, y: 56 } }
+Acting West(5)
+Status Ship { pos: Point { x: 18537, y: -15857 }, waypoint: Point { x: 38, y: 56 } }
+Acting Forward(28)
+Status Ship { pos: Point { x: 19601, y: -14289 }, waypoint: Point { x: 38, y: 56 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 19601, y: -14289 }, waypoint: Point { x: -56, y: 38 } }
+Acting East(3)
+Status Ship { pos: Point { x: 19601, y: -14289 }, waypoint: Point { x: -53, y: 38 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 19601, y: -14289 }, waypoint: Point { x: 38, y: 53 } }
+Acting North(2)
+Status Ship { pos: Point { x: 19601, y: -14289 }, waypoint: Point { x: 38, y: 55 } }
+Acting North(2)
+Status Ship { pos: Point { x: 19601, y: -14289 }, waypoint: Point { x: 38, y: 57 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 19601, y: -14289 }, waypoint: Point { x: -57, y: 38 } }
+Acting North(5)
+Status Ship { pos: Point { x: 19601, y: -14289 }, waypoint: Point { x: -57, y: 43 } }
+Acting Forward(84)
+Status Ship { pos: Point { x: 14813, y: -10677 }, waypoint: Point { x: -57, y: 43 } }
+Acting North(5)
+Status Ship { pos: Point { x: 14813, y: -10677 }, waypoint: Point { x: -57, y: 48 } }
+Acting Forward(85)
+Status Ship { pos: Point { x: 9968, y: -6597 }, waypoint: Point { x: -57, y: 48 } }
+Acting West(3)
+Status Ship { pos: Point { x: 9968, y: -6597 }, waypoint: Point { x: -60, y: 48 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 9968, y: -6597 }, waypoint: Point { x: -48, y: -60 } }
+Acting Forward(55)
+Status Ship { pos: Point { x: 7328, y: -9897 }, waypoint: Point { x: -48, y: -60 } }
+Acting East(2)
+Status Ship { pos: Point { x: 7328, y: -9897 }, waypoint: Point { x: -46, y: -60 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 7328, y: -9897 }, waypoint: Point { x: -60, y: 46 } }
+Acting West(5)
+Status Ship { pos: Point { x: 7328, y: -9897 }, waypoint: Point { x: -65, y: 46 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 7328, y: -9897 }, waypoint: Point { x: 46, y: 65 } }
+Acting West(1)
+Status Ship { pos: Point { x: 7328, y: -9897 }, waypoint: Point { x: 45, y: 65 } }
+Acting Forward(4)
+Status Ship { pos: Point { x: 7508, y: -9637 }, waypoint: Point { x: 45, y: 65 } }
+Acting North(4)
+Status Ship { pos: Point { x: 7508, y: -9637 }, waypoint: Point { x: 45, y: 69 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 7508, y: -9637 }, waypoint: Point { x: -45, y: -69 } }
+Acting North(1)
+Status Ship { pos: Point { x: 7508, y: -9637 }, waypoint: Point { x: -45, y: -68 } }
+Acting East(1)
+Status Ship { pos: Point { x: 7508, y: -9637 }, waypoint: Point { x: -44, y: -68 } }
+Acting Right(180)
+Status Ship { pos: Point { x: 7508, y: -9637 }, waypoint: Point { x: -44, y: -68 } }
+Acting East(4)
+Status Ship { pos: Point { x: 7508, y: -9637 }, waypoint: Point { x: -40, y: -68 } }
+Acting Left(270)
+Status Ship { pos: Point { x: 7508, y: -9637 }, waypoint: Point { x: -68, y: 40 } }
+Acting East(5)
+Status Ship { pos: Point { x: 7508, y: -9637 }, waypoint: Point { x: -63, y: 40 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 7508, y: -9637 }, waypoint: Point { x: 40, y: 63 } }
+Acting Forward(60)
+Status Ship { pos: Point { x: 9908, y: -5857 }, waypoint: Point { x: 40, y: 63 } }
+Acting North(1)
+Status Ship { pos: Point { x: 9908, y: -5857 }, waypoint: Point { x: 40, y: 64 } }
+Acting West(5)
+Status Ship { pos: Point { x: 9908, y: -5857 }, waypoint: Point { x: 35, y: 64 } }
+Acting North(3)
+Status Ship { pos: Point { x: 9908, y: -5857 }, waypoint: Point { x: 35, y: 67 } }
+Acting East(5)
+Status Ship { pos: Point { x: 9908, y: -5857 }, waypoint: Point { x: 40, y: 67 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 9908, y: -5857 }, waypoint: Point { x: 67, y: -40 } }
+Acting Forward(73)
+Status Ship { pos: Point { x: 14799, y: -8777 }, waypoint: Point { x: 67, y: -40 } }
+Acting East(3)
+Status Ship { pos: Point { x: 14799, y: -8777 }, waypoint: Point { x: 70, y: -40 } }
+Acting North(4)
+Status Ship { pos: Point { x: 14799, y: -8777 }, waypoint: Point { x: 70, y: -36 } }
+Acting West(1)
+Status Ship { pos: Point { x: 14799, y: -8777 }, waypoint: Point { x: 69, y: -36 } }
+Acting Forward(32)
+Status Ship { pos: Point { x: 17007, y: -9929 }, waypoint: Point { x: 69, y: -36 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 17007, y: -9929 }, waypoint: Point { x: -36, y: -69 } }
+Acting East(3)
+Status Ship { pos: Point { x: 17007, y: -9929 }, waypoint: Point { x: -33, y: -69 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 17007, y: -9929 }, waypoint: Point { x: 69, y: -33 } }
+Acting Forward(91)
+Status Ship { pos: Point { x: 23286, y: -12932 }, waypoint: Point { x: 69, y: -33 } }
+Acting East(3)
+Status Ship { pos: Point { x: 23286, y: -12932 }, waypoint: Point { x: 72, y: -33 } }
+Acting South(3)
+Status Ship { pos: Point { x: 23286, y: -12932 }, waypoint: Point { x: 72, y: -36 } }
+Acting West(2)
+Status Ship { pos: Point { x: 23286, y: -12932 }, waypoint: Point { x: 70, y: -36 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 23286, y: -12932 }, waypoint: Point { x: 36, y: 70 } }
+Acting East(1)
+Status Ship { pos: Point { x: 23286, y: -12932 }, waypoint: Point { x: 37, y: 70 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 23286, y: -12932 }, waypoint: Point { x: -70, y: 37 } }
+Acting East(1)
+Status Ship { pos: Point { x: 23286, y: -12932 }, waypoint: Point { x: -69, y: 37 } }
+Acting North(5)
+Status Ship { pos: Point { x: 23286, y: -12932 }, waypoint: Point { x: -69, y: 42 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 23286, y: -12932 }, waypoint: Point { x: 69, y: -42 } }
+Acting Forward(87)
+Status Ship { pos: Point { x: 29289, y: -16586 }, waypoint: Point { x: 69, y: -42 } }
+Acting West(3)
+Status Ship { pos: Point { x: 29289, y: -16586 }, waypoint: Point { x: 66, y: -42 } }
+Acting North(4)
+Status Ship { pos: Point { x: 29289, y: -16586 }, waypoint: Point { x: 66, y: -38 } }
+Acting Forward(78)
+Status Ship { pos: Point { x: 34437, y: -19550 }, waypoint: Point { x: 66, y: -38 } }
+Acting West(5)
+Status Ship { pos: Point { x: 34437, y: -19550 }, waypoint: Point { x: 61, y: -38 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 34437, y: -19550 }, waypoint: Point { x: 38, y: 61 } }
+Acting Forward(34)
+Status Ship { pos: Point { x: 35729, y: -17476 }, waypoint: Point { x: 38, y: 61 } }
+Acting North(4)
+Status Ship { pos: Point { x: 35729, y: -17476 }, waypoint: Point { x: 38, y: 65 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 35729, y: -17476 }, waypoint: Point { x: 65, y: -38 } }
+Acting East(5)
+Status Ship { pos: Point { x: 35729, y: -17476 }, waypoint: Point { x: 70, y: -38 } }
+Acting Right(180)
+Status Ship { pos: Point { x: 35729, y: -17476 }, waypoint: Point { x: 70, y: -38 } }
+Acting North(2)
+Status Ship { pos: Point { x: 35729, y: -17476 }, waypoint: Point { x: 70, y: -36 } }
+Acting Forward(52)
+Status Ship { pos: Point { x: 39369, y: -19348 }, waypoint: Point { x: 70, y: -36 } }
+Acting West(4)
+Status Ship { pos: Point { x: 39369, y: -19348 }, waypoint: Point { x: 66, y: -36 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 39369, y: -19348 }, waypoint: Point { x: 36, y: 66 } }
+Acting East(1)
+Status Ship { pos: Point { x: 39369, y: -19348 }, waypoint: Point { x: 37, y: 66 } }
+Acting Forward(17)
+Status Ship { pos: Point { x: 39998, y: -18226 }, waypoint: Point { x: 37, y: 66 } }
+Acting South(2)
+Status Ship { pos: Point { x: 39998, y: -18226 }, waypoint: Point { x: 37, y: 64 } }
+Acting East(3)
+Status Ship { pos: Point { x: 39998, y: -18226 }, waypoint: Point { x: 40, y: 64 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 39998, y: -18226 }, waypoint: Point { x: -40, y: -64 } }
+Acting East(3)
+Status Ship { pos: Point { x: 39998, y: -18226 }, waypoint: Point { x: -37, y: -64 } }
+Acting East(2)
+Status Ship { pos: Point { x: 39998, y: -18226 }, waypoint: Point { x: -35, y: -64 } }
+Acting North(5)
+Status Ship { pos: Point { x: 39998, y: -18226 }, waypoint: Point { x: -35, y: -59 } }
+Acting East(5)
+Status Ship { pos: Point { x: 39998, y: -18226 }, waypoint: Point { x: -30, y: -59 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 39998, y: -18226 }, waypoint: Point { x: -59, y: 30 } }
+Acting South(1)
+Status Ship { pos: Point { x: 39998, y: -18226 }, waypoint: Point { x: -59, y: 29 } }
+Acting West(3)
+Status Ship { pos: Point { x: 39998, y: -18226 }, waypoint: Point { x: -62, y: 29 } }
+Acting North(5)
+Status Ship { pos: Point { x: 39998, y: -18226 }, waypoint: Point { x: -62, y: 34 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 39998, y: -18226 }, waypoint: Point { x: -34, y: -62 } }
+Acting West(1)
+Status Ship { pos: Point { x: 39998, y: -18226 }, waypoint: Point { x: -35, y: -62 } }
+Acting Forward(13)
+Status Ship { pos: Point { x: 39543, y: -19032 }, waypoint: Point { x: -35, y: -62 } }
+Acting West(4)
+Status Ship { pos: Point { x: 39543, y: -19032 }, waypoint: Point { x: -39, y: -62 } }
+Acting South(4)
+Status Ship { pos: Point { x: 39543, y: -19032 }, waypoint: Point { x: -39, y: -66 } }
+Acting North(5)
+Status Ship { pos: Point { x: 39543, y: -19032 }, waypoint: Point { x: -39, y: -61 } }
+Acting East(5)
+Status Ship { pos: Point { x: 39543, y: -19032 }, waypoint: Point { x: -34, y: -61 } }
+Acting South(4)
+Status Ship { pos: Point { x: 39543, y: -19032 }, waypoint: Point { x: -34, y: -65 } }
+Acting Forward(26)
+Status Ship { pos: Point { x: 38659, y: -20722 }, waypoint: Point { x: -34, y: -65 } }
+Acting East(5)
+Status Ship { pos: Point { x: 38659, y: -20722 }, waypoint: Point { x: -29, y: -65 } }
+Acting Forward(59)
+Status Ship { pos: Point { x: 36948, y: -24557 }, waypoint: Point { x: -29, y: -65 } }
+Acting West(1)
+Status Ship { pos: Point { x: 36948, y: -24557 }, waypoint: Point { x: -30, y: -65 } }
+Acting North(4)
+Status Ship { pos: Point { x: 36948, y: -24557 }, waypoint: Point { x: -30, y: -61 } }
+Acting South(4)
+Status Ship { pos: Point { x: 36948, y: -24557 }, waypoint: Point { x: -30, y: -65 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 36948, y: -24557 }, waypoint: Point { x: 65, y: -30 } }
+Acting Forward(85)
+Status Ship { pos: Point { x: 42473, y: -27107 }, waypoint: Point { x: 65, y: -30 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 42473, y: -27107 }, waypoint: Point { x: 30, y: 65 } }
+Acting West(5)
+Status Ship { pos: Point { x: 42473, y: -27107 }, waypoint: Point { x: 25, y: 65 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 42473, y: -27107 }, waypoint: Point { x: 65, y: -25 } }
+Acting South(1)
+Status Ship { pos: Point { x: 42473, y: -27107 }, waypoint: Point { x: 65, y: -26 } }
+Acting East(2)
+Status Ship { pos: Point { x: 42473, y: -27107 }, waypoint: Point { x: 67, y: -26 } }
+Acting Forward(86)
+Status Ship { pos: Point { x: 48235, y: -29343 }, waypoint: Point { x: 67, y: -26 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 48235, y: -29343 }, waypoint: Point { x: -26, y: -67 } }
+Acting South(2)
+Status Ship { pos: Point { x: 48235, y: -29343 }, waypoint: Point { x: -26, y: -69 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 48235, y: -29343 }, waypoint: Point { x: -69, y: 26 } }
+Acting Forward(72)
+Status Ship { pos: Point { x: 43267, y: -27471 }, waypoint: Point { x: -69, y: 26 } }
+Acting Left(270)
+Status Ship { pos: Point { x: 43267, y: -27471 }, waypoint: Point { x: 26, y: 69 } }
+Acting West(5)
+Status Ship { pos: Point { x: 43267, y: -27471 }, waypoint: Point { x: 21, y: 69 } }
+Acting West(4)
+Status Ship { pos: Point { x: 43267, y: -27471 }, waypoint: Point { x: 17, y: 69 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 43267, y: -27471 }, waypoint: Point { x: -69, y: 17 } }
+Acting North(2)
+Status Ship { pos: Point { x: 43267, y: -27471 }, waypoint: Point { x: -69, y: 19 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 43267, y: -27471 }, waypoint: Point { x: 19, y: 69 } }
+Acting Forward(12)
+Status Ship { pos: Point { x: 43495, y: -26643 }, waypoint: Point { x: 19, y: 69 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 43495, y: -26643 }, waypoint: Point { x: 69, y: -19 } }
+Acting Forward(21)
+Status Ship { pos: Point { x: 44944, y: -27042 }, waypoint: Point { x: 69, y: -19 } }
+Acting Right(180)
+Status Ship { pos: Point { x: 44944, y: -27042 }, waypoint: Point { x: 69, y: -19 } }
+Acting South(4)
+Status Ship { pos: Point { x: 44944, y: -27042 }, waypoint: Point { x: 69, y: -23 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 44944, y: -27042 }, waypoint: Point { x: -69, y: 23 } }
+Acting East(5)
+Status Ship { pos: Point { x: 44944, y: -27042 }, waypoint: Point { x: -64, y: 23 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 44944, y: -27042 }, waypoint: Point { x: 23, y: 64 } }
+Acting South(5)
+Status Ship { pos: Point { x: 44944, y: -27042 }, waypoint: Point { x: 23, y: 59 } }
+Acting West(5)
+Status Ship { pos: Point { x: 44944, y: -27042 }, waypoint: Point { x: 18, y: 59 } }
+Acting Forward(87)
+Status Ship { pos: Point { x: 46510, y: -21909 }, waypoint: Point { x: 18, y: 59 } }
+Acting East(3)
+Status Ship { pos: Point { x: 46510, y: -21909 }, waypoint: Point { x: 21, y: 59 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 46510, y: -21909 }, waypoint: Point { x: 59, y: -21 } }
+Acting East(3)
+Status Ship { pos: Point { x: 46510, y: -21909 }, waypoint: Point { x: 62, y: -21 } }
+Acting South(1)
+Status Ship { pos: Point { x: 46510, y: -21909 }, waypoint: Point { x: 62, y: -22 } }
+Acting Left(270)
+Status Ship { pos: Point { x: 46510, y: -21909 }, waypoint: Point { x: -22, y: -62 } }
+Acting Forward(74)
+Status Ship { pos: Point { x: 44882, y: -26497 }, waypoint: Point { x: -22, y: -62 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 44882, y: -26497 }, waypoint: Point { x: -62, y: 22 } }
+Acting South(3)
+Status Ship { pos: Point { x: 44882, y: -26497 }, waypoint: Point { x: -62, y: 19 } }
+Acting West(5)
+Status Ship { pos: Point { x: 44882, y: -26497 }, waypoint: Point { x: -67, y: 19 } }
+Acting Forward(3)
+Status Ship { pos: Point { x: 44681, y: -26440 }, waypoint: Point { x: -67, y: 19 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 44681, y: -26440 }, waypoint: Point { x: 19, y: 67 } }
+Acting West(2)
+Status Ship { pos: Point { x: 44681, y: -26440 }, waypoint: Point { x: 17, y: 67 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 44681, y: -26440 }, waypoint: Point { x: -67, y: 17 } }
+Acting Forward(11)
+Status Ship { pos: Point { x: 43944, y: -26253 }, waypoint: Point { x: -67, y: 17 } }
+Acting South(2)
+Status Ship { pos: Point { x: 43944, y: -26253 }, waypoint: Point { x: -67, y: 15 } }
+Acting West(3)
+Status Ship { pos: Point { x: 43944, y: -26253 }, waypoint: Point { x: -70, y: 15 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 43944, y: -26253 }, waypoint: Point { x: 15, y: 70 } }
+Acting South(3)
+Status Ship { pos: Point { x: 43944, y: -26253 }, waypoint: Point { x: 15, y: 67 } }
+Acting North(1)
+Status Ship { pos: Point { x: 43944, y: -26253 }, waypoint: Point { x: 15, y: 68 } }
+Acting West(4)
+Status Ship { pos: Point { x: 43944, y: -26253 }, waypoint: Point { x: 11, y: 68 } }
+Acting Forward(67)
+Status Ship { pos: Point { x: 44681, y: -21697 }, waypoint: Point { x: 11, y: 68 } }
+Acting South(1)
+Status Ship { pos: Point { x: 44681, y: -21697 }, waypoint: Point { x: 11, y: 67 } }
+Acting East(2)
+Status Ship { pos: Point { x: 44681, y: -21697 }, waypoint: Point { x: 13, y: 67 } }
+Acting North(4)
+Status Ship { pos: Point { x: 44681, y: -21697 }, waypoint: Point { x: 13, y: 71 } }
+Acting Left(270)
+Status Ship { pos: Point { x: 44681, y: -21697 }, waypoint: Point { x: 71, y: -13 } }
+Acting East(5)
+Status Ship { pos: Point { x: 44681, y: -21697 }, waypoint: Point { x: 76, y: -13 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 44681, y: -21697 }, waypoint: Point { x: 13, y: 76 } }
+Acting North(1)
+Status Ship { pos: Point { x: 44681, y: -21697 }, waypoint: Point { x: 13, y: 77 } }
+Acting East(2)
+Status Ship { pos: Point { x: 44681, y: -21697 }, waypoint: Point { x: 15, y: 77 } }
+Acting Forward(75)
+Status Ship { pos: Point { x: 45806, y: -15922 }, waypoint: Point { x: 15, y: 77 } }
+Acting East(1)
+Status Ship { pos: Point { x: 45806, y: -15922 }, waypoint: Point { x: 16, y: 77 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 45806, y: -15922 }, waypoint: Point { x: -77, y: 16 } }
+Acting Forward(63)
+Status Ship { pos: Point { x: 40955, y: -14914 }, waypoint: Point { x: -77, y: 16 } }
+Acting East(4)
+Status Ship { pos: Point { x: 40955, y: -14914 }, waypoint: Point { x: -73, y: 16 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 40955, y: -14914 }, waypoint: Point { x: 16, y: 73 } }
+Acting South(4)
+Status Ship { pos: Point { x: 40955, y: -14914 }, waypoint: Point { x: 16, y: 69 } }
+Acting Forward(62)
+Status Ship { pos: Point { x: 41947, y: -10636 }, waypoint: Point { x: 16, y: 69 } }
+Acting North(5)
+Status Ship { pos: Point { x: 41947, y: -10636 }, waypoint: Point { x: 16, y: 74 } }
+Acting East(4)
+Status Ship { pos: Point { x: 41947, y: -10636 }, waypoint: Point { x: 20, y: 74 } }
+Acting North(4)
+Status Ship { pos: Point { x: 41947, y: -10636 }, waypoint: Point { x: 20, y: 78 } }
+Acting Forward(65)
+Status Ship { pos: Point { x: 43247, y: -5566 }, waypoint: Point { x: 20, y: 78 } }
+Acting South(2)
+Status Ship { pos: Point { x: 43247, y: -5566 }, waypoint: Point { x: 20, y: 76 } }
+Acting West(2)
+Status Ship { pos: Point { x: 43247, y: -5566 }, waypoint: Point { x: 18, y: 76 } }
+Acting Forward(15)
+Status Ship { pos: Point { x: 43517, y: -4426 }, waypoint: Point { x: 18, y: 76 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 43517, y: -4426 }, waypoint: Point { x: 76, y: -18 } }
+Acting West(3)
+Status Ship { pos: Point { x: 43517, y: -4426 }, waypoint: Point { x: 73, y: -18 } }
+Acting West(5)
+Status Ship { pos: Point { x: 43517, y: -4426 }, waypoint: Point { x: 68, y: -18 } }
+Acting Forward(71)
+Status Ship { pos: Point { x: 48345, y: -5704 }, waypoint: Point { x: 68, y: -18 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 48345, y: -5704 }, waypoint: Point { x: -18, y: -68 } }
+Acting South(1)
+Status Ship { pos: Point { x: 48345, y: -5704 }, waypoint: Point { x: -18, y: -69 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 48345, y: -5704 }, waypoint: Point { x: 69, y: -18 } }
+Acting South(1)
+Status Ship { pos: Point { x: 48345, y: -5704 }, waypoint: Point { x: 69, y: -19 } }
+Acting Forward(43)
+Status Ship { pos: Point { x: 51312, y: -6521 }, waypoint: Point { x: 69, y: -19 } }
+Acting South(3)
+Status Ship { pos: Point { x: 51312, y: -6521 }, waypoint: Point { x: 69, y: -22 } }
+Acting Forward(82)
+Status Ship { pos: Point { x: 56970, y: -8325 }, waypoint: Point { x: 69, y: -22 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 56970, y: -8325 }, waypoint: Point { x: 22, y: 69 } }
+Acting Forward(7)
+Status Ship { pos: Point { x: 57124, y: -7842 }, waypoint: Point { x: 22, y: 69 } }
+Acting West(1)
+Status Ship { pos: Point { x: 57124, y: -7842 }, waypoint: Point { x: 21, y: 69 } }
+Acting South(3)
+Status Ship { pos: Point { x: 57124, y: -7842 }, waypoint: Point { x: 21, y: 66 } }
+Acting East(2)
+Status Ship { pos: Point { x: 57124, y: -7842 }, waypoint: Point { x: 23, y: 66 } }
+Acting East(1)
+Status Ship { pos: Point { x: 57124, y: -7842 }, waypoint: Point { x: 24, y: 66 } }
+Acting South(1)
+Status Ship { pos: Point { x: 57124, y: -7842 }, waypoint: Point { x: 24, y: 65 } }
+Acting Forward(74)
+Status Ship { pos: Point { x: 58900, y: -3032 }, waypoint: Point { x: 24, y: 65 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 58900, y: -3032 }, waypoint: Point { x: 65, y: -24 } }
+Acting North(4)
+Status Ship { pos: Point { x: 58900, y: -3032 }, waypoint: Point { x: 65, y: -20 } }
+Acting East(4)
+Status Ship { pos: Point { x: 58900, y: -3032 }, waypoint: Point { x: 69, y: -20 } }
+Acting Forward(12)
+Status Ship { pos: Point { x: 59728, y: -3272 }, waypoint: Point { x: 69, y: -20 } }
+Acting West(2)
+Status Ship { pos: Point { x: 59728, y: -3272 }, waypoint: Point { x: 67, y: -20 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 59728, y: -3272 }, waypoint: Point { x: -67, y: 20 } }
+Acting South(2)
+Status Ship { pos: Point { x: 59728, y: -3272 }, waypoint: Point { x: -67, y: 18 } }
+Acting East(2)
+Status Ship { pos: Point { x: 59728, y: -3272 }, waypoint: Point { x: -65, y: 18 } }
+Acting South(1)
+Status Ship { pos: Point { x: 59728, y: -3272 }, waypoint: Point { x: -65, y: 17 } }
+Acting Forward(5)
+Status Ship { pos: Point { x: 59403, y: -3187 }, waypoint: Point { x: -65, y: 17 } }
+Acting North(5)
+Status Ship { pos: Point { x: 59403, y: -3187 }, waypoint: Point { x: -65, y: 22 } }
+Acting West(5)
+Status Ship { pos: Point { x: 59403, y: -3187 }, waypoint: Point { x: -70, y: 22 } }
+Acting North(5)
+Status Ship { pos: Point { x: 59403, y: -3187 }, waypoint: Point { x: -70, y: 27 } }
+Acting South(1)
+Status Ship { pos: Point { x: 59403, y: -3187 }, waypoint: Point { x: -70, y: 26 } }
+Acting West(5)
+Status Ship { pos: Point { x: 59403, y: -3187 }, waypoint: Point { x: -75, y: 26 } }
+Acting Forward(42)
+Status Ship { pos: Point { x: 56253, y: -2095 }, waypoint: Point { x: -75, y: 26 } }
+Acting South(5)
+Status Ship { pos: Point { x: 56253, y: -2095 }, waypoint: Point { x: -75, y: 21 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 56253, y: -2095 }, waypoint: Point { x: -21, y: -75 } }
+Acting North(2)
+Status Ship { pos: Point { x: 56253, y: -2095 }, waypoint: Point { x: -21, y: -73 } }
+Acting Forward(2)
+Status Ship { pos: Point { x: 56211, y: -2241 }, waypoint: Point { x: -21, y: -73 } }
+Acting West(2)
+Status Ship { pos: Point { x: 56211, y: -2241 }, waypoint: Point { x: -23, y: -73 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 56211, y: -2241 }, waypoint: Point { x: -73, y: 23 } }
+Acting South(4)
+Status Ship { pos: Point { x: 56211, y: -2241 }, waypoint: Point { x: -73, y: 19 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 56211, y: -2241 }, waypoint: Point { x: 73, y: -19 } }
+Acting Forward(53)
+Status Ship { pos: Point { x: 60080, y: -3248 }, waypoint: Point { x: 73, y: -19 } }
+Acting West(5)
+Status Ship { pos: Point { x: 60080, y: -3248 }, waypoint: Point { x: 68, y: -19 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 60080, y: -3248 }, waypoint: Point { x: -19, y: -68 } }
+Acting Forward(38)
+Status Ship { pos: Point { x: 59358, y: -5832 }, waypoint: Point { x: -19, y: -68 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 59358, y: -5832 }, waypoint: Point { x: 68, y: -19 } }
+Acting West(3)
+Status Ship { pos: Point { x: 59358, y: -5832 }, waypoint: Point { x: 65, y: -19 } }
+Acting West(3)
+Status Ship { pos: Point { x: 59358, y: -5832 }, waypoint: Point { x: 62, y: -19 } }
+Acting Forward(50)
+Status Ship { pos: Point { x: 62458, y: -6782 }, waypoint: Point { x: 62, y: -19 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 62458, y: -6782 }, waypoint: Point { x: -19, y: -62 } }
+Acting North(4)
+Status Ship { pos: Point { x: 62458, y: -6782 }, waypoint: Point { x: -19, y: -58 } }
+Acting Forward(25)
+Status Ship { pos: Point { x: 61983, y: -8232 }, waypoint: Point { x: -19, y: -58 } }
+Acting East(1)
+Status Ship { pos: Point { x: 61983, y: -8232 }, waypoint: Point { x: -18, y: -58 } }
+Acting North(5)
+Status Ship { pos: Point { x: 61983, y: -8232 }, waypoint: Point { x: -18, y: -53 } }
+Acting East(4)
+Status Ship { pos: Point { x: 61983, y: -8232 }, waypoint: Point { x: -14, y: -53 } }
+Acting South(3)
+Status Ship { pos: Point { x: 61983, y: -8232 }, waypoint: Point { x: -14, y: -56 } }
+Acting Forward(50)
+Status Ship { pos: Point { x: 61283, y: -11032 }, waypoint: Point { x: -14, y: -56 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 61283, y: -11032 }, waypoint: Point { x: 56, y: -14 } }
+Acting East(2)
+Status Ship { pos: Point { x: 61283, y: -11032 }, waypoint: Point { x: 58, y: -14 } }
+Acting Right(180)
+Status Ship { pos: Point { x: 61283, y: -11032 }, waypoint: Point { x: 58, y: -14 } }
+Acting Forward(31)
+Status Ship { pos: Point { x: 63081, y: -11466 }, waypoint: Point { x: 58, y: -14 } }
+Acting South(1)
+Status Ship { pos: Point { x: 63081, y: -11466 }, waypoint: Point { x: 58, y: -15 } }
+Acting East(5)
+Status Ship { pos: Point { x: 63081, y: -11466 }, waypoint: Point { x: 63, y: -15 } }
+Acting Forward(46)
+Status Ship { pos: Point { x: 65979, y: -12156 }, waypoint: Point { x: 63, y: -15 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 65979, y: -12156 }, waypoint: Point { x: 15, y: 63 } }
+Acting East(3)
+Status Ship { pos: Point { x: 65979, y: -12156 }, waypoint: Point { x: 18, y: 63 } }
+Acting Forward(88)
+Status Ship { pos: Point { x: 67563, y: -6612 }, waypoint: Point { x: 18, y: 63 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 67563, y: -6612 }, waypoint: Point { x: -63, y: 18 } }
+Acting Forward(95)
+Status Ship { pos: Point { x: 61578, y: -4902 }, waypoint: Point { x: -63, y: 18 } }
+Acting North(4)
+Status Ship { pos: Point { x: 61578, y: -4902 }, waypoint: Point { x: -63, y: 22 } }
+Acting Forward(57)
+Status Ship { pos: Point { x: 57987, y: -3648 }, waypoint: Point { x: -63, y: 22 } }
+Acting South(4)
+Status Ship { pos: Point { x: 57987, y: -3648 }, waypoint: Point { x: -63, y: 18 } }
+Acting East(4)
+Status Ship { pos: Point { x: 57987, y: -3648 }, waypoint: Point { x: -59, y: 18 } }
+Acting Right(270)
+Status Ship { pos: Point { x: 57987, y: -3648 }, waypoint: Point { x: -18, y: -59 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 57987, y: -3648 }, waypoint: Point { x: -59, y: 18 } }
+Acting East(5)
+Status Ship { pos: Point { x: 57987, y: -3648 }, waypoint: Point { x: -54, y: 18 } }
+Acting Forward(11)
+Status Ship { pos: Point { x: 57393, y: -3450 }, waypoint: Point { x: -54, y: 18 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 57393, y: -3450 }, waypoint: Point { x: 18, y: 54 } }
+Acting North(5)
+Status Ship { pos: Point { x: 57393, y: -3450 }, waypoint: Point { x: 18, y: 59 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 57393, y: -3450 }, waypoint: Point { x: -59, y: 18 } }
+Acting Forward(54)
+Status Ship { pos: Point { x: 54207, y: -2478 }, waypoint: Point { x: -59, y: 18 } }
+Acting North(2)
+Status Ship { pos: Point { x: 54207, y: -2478 }, waypoint: Point { x: -59, y: 20 } }
+Acting West(2)
+Status Ship { pos: Point { x: 54207, y: -2478 }, waypoint: Point { x: -61, y: 20 } }
+Acting Forward(32)
+Status Ship { pos: Point { x: 52255, y: -1838 }, waypoint: Point { x: -61, y: 20 } }
+Acting North(4)
+Status Ship { pos: Point { x: 52255, y: -1838 }, waypoint: Point { x: -61, y: 24 } }
+Acting Right(270)
+Status Ship { pos: Point { x: 52255, y: -1838 }, waypoint: Point { x: -24, y: -61 } }
+Acting South(2)
+Status Ship { pos: Point { x: 52255, y: -1838 }, waypoint: Point { x: -24, y: -63 } }
+Acting Forward(44)
+Status Ship { pos: Point { x: 51199, y: -4610 }, waypoint: Point { x: -24, y: -63 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 51199, y: -4610 }, waypoint: Point { x: -63, y: 24 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 51199, y: -4610 }, waypoint: Point { x: 24, y: 63 } }
+Acting West(4)
+Status Ship { pos: Point { x: 51199, y: -4610 }, waypoint: Point { x: 20, y: 63 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 51199, y: -4610 }, waypoint: Point { x: -63, y: 20 } }
+Acting Forward(78)
+Status Ship { pos: Point { x: 46285, y: -3050 }, waypoint: Point { x: -63, y: 20 } }
+Acting Forward(42)
+Status Ship { pos: Point { x: 43639, y: -2210 }, waypoint: Point { x: -63, y: 20 } }
+Acting West(1)
+Status Ship { pos: Point { x: 43639, y: -2210 }, waypoint: Point { x: -64, y: 20 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 43639, y: -2210 }, waypoint: Point { x: 20, y: 64 } }
+Acting North(5)
+Status Ship { pos: Point { x: 43639, y: -2210 }, waypoint: Point { x: 20, y: 69 } }
+Acting Forward(83)
+Status Ship { pos: Point { x: 45299, y: 3517 }, waypoint: Point { x: 20, y: 69 } }
+Acting West(2)
+Status Ship { pos: Point { x: 45299, y: 3517 }, waypoint: Point { x: 18, y: 69 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 45299, y: 3517 }, waypoint: Point { x: -69, y: 18 } }
+Acting West(3)
+Status Ship { pos: Point { x: 45299, y: 3517 }, waypoint: Point { x: -72, y: 18 } }
+Acting Left(180)
+Status Ship { pos: Point { x: 45299, y: 3517 }, waypoint: Point { x: 72, y: -18 } }
+Acting South(1)
+Status Ship { pos: Point { x: 45299, y: 3517 }, waypoint: Point { x: 72, y: -19 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 45299, y: 3517 }, waypoint: Point { x: -19, y: -72 } }
+Acting Forward(38)
+Status Ship { pos: Point { x: 44577, y: 781 }, waypoint: Point { x: -19, y: -72 } }
+Acting South(5)
+Status Ship { pos: Point { x: 44577, y: 781 }, waypoint: Point { x: -19, y: -77 } }
+Acting North(2)
+Status Ship { pos: Point { x: 44577, y: 781 }, waypoint: Point { x: -19, y: -75 } }
+Acting Forward(46)
+Status Ship { pos: Point { x: 43703, y: -2669 }, waypoint: Point { x: -19, y: -75 } }
+Acting West(3)
+Status Ship { pos: Point { x: 43703, y: -2669 }, waypoint: Point { x: -22, y: -75 } }
+Acting Forward(83)
+Status Ship { pos: Point { x: 41877, y: -8894 }, waypoint: Point { x: -22, y: -75 } }
+Acting West(3)
+Status Ship { pos: Point { x: 41877, y: -8894 }, waypoint: Point { x: -25, y: -75 } }
+Acting Right(90)
+Status Ship { pos: Point { x: 41877, y: -8894 }, waypoint: Point { x: -75, y: 25 } }
+Acting Forward(41)
+Status Ship { pos: Point { x: 38802, y: -7869 }, waypoint: Point { x: -75, y: 25 } }
+Acting West(1)
+Status Ship { pos: Point { x: 38802, y: -7869 }, waypoint: Point { x: -76, y: 25 } }
+Acting Right(180)
+Status Ship { pos: Point { x: 38802, y: -7869 }, waypoint: Point { x: -76, y: 25 } }
+Acting East(4)
+Status Ship { pos: Point { x: 38802, y: -7869 }, waypoint: Point { x: -72, y: 25 } }
+Acting North(1)
+Status Ship { pos: Point { x: 38802, y: -7869 }, waypoint: Point { x: -72, y: 26 } }
+Acting Forward(39)
+Status Ship { pos: Point { x: 35994, y: -6855 }, waypoint: Point { x: -72, y: 26 } }
+Acting Forward(36)
+Status Ship { pos: Point { x: 33402, y: -5919 }, waypoint: Point { x: -72, y: 26 } }
+Acting South(3)
+Status Ship { pos: Point { x: 33402, y: -5919 }, waypoint: Point { x: -72, y: 23 } }
+Acting Left(90)
+Status Ship { pos: Point { x: 33402, y: -5919 }, waypoint: Point { x: -23, y: -72 } }
+Acting East(3)
+Status Ship { pos: Point { x: 33402, y: -5919 }, waypoint: Point { x: -20, y: -72 } }
+Acting Forward(42)
+Status Ship { pos: Point { x: 32562, y: -8943 }, waypoint: Point { x: -20, y: -72 } }
+Acting North(3)
+Status Ship { pos: Point { x: 32562, y: -8943 }, waypoint: Point { x: -20, y: -69 } }
+Acting East(4)
+Status Ship { pos: Point { x: 32562, y: -8943 }, waypoint: Point { x: -16, y: -69 } }
+Acting Forward(60)
+Status Ship { pos: Point { x: 31602, y: -13083 }, waypoint: Point { x: -16, y: -69 } }
+44685
